@@ -6,12 +6,9 @@ about:
   template: trestles
   image-shape: rectangle
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
+    - icon: bar-chart-line-fill
+      text: Current Course Website
+      href: https://sta199-summer-1.github.io/
     - icon: github
       text: Github
       href: https://github.com
@@ -26,13 +23,18 @@ My work is about Electronic Health Records.
 
 ## Education 
 
-University of Oslo | Oslo, Norway
+Duke University | Durham, NC ![](Duke-University-Logo.png){width="50" height="45" fig-align="right"}
 
-PhD in Biostatistics | Oct 2022
+Postdoctoral Associate | Current
 
-University of Oslo | Oslo, Norway
+Montana State University | Bozeman, MT ![](MontanaStateUniversity_Icon.png){width="50" height="50" fig-align="right"}
 
-MSc in Statistics | June 2018
+Ph.D. in Statistics with a focus in Education | DATE
+
+Montana State University | Bozeman, MT ![](MontanaStateUniversity_Icon.png){width="50" height="50" fig-align="right"}
+
+Master's in Statistics | DATE
+
 
 ## Experience
 

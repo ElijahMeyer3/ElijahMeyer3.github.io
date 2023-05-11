@@ -13,6 +13,7 @@ website:
   navbar:
     background: "#2af0f7" # Teal
     foreground: "light"
+    pinned: true
     left:
       - href: index.qmd
         text: About
