@@ -12,6 +12,7 @@ website:
     background: "#2af0f7" # Teal
   navbar:
     background: "#2af0f7" # Teal
+    foreground: "light"
     left:
       - href: index.qmd
         text: About
@@ -33,7 +34,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: darkly
     css: styles.css
     toc: true
 
