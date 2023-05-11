@@ -24,6 +24,9 @@ website:
       - href: teaching/teaching.qmd
         text: Teaching
 
+      - href: PD/PD.qmd
+        text: Professional Development
+
 format:
   html:
     theme: cosmo
