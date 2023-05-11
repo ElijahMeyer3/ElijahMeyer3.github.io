@@ -4,7 +4,7 @@ project:
 
 website:
   page-navigation: true
-  title: "Hello :)"
+  title: "Hello World!"
 
   page-footer:
     left: "&copy; Copyright 2022, Author"
@@ -20,6 +20,9 @@ website:
 
       - href: about.qmd
         text: About
+
+      - href: teaching/teaching.qmd
+        text: Teaching
 
 format:
   html:
