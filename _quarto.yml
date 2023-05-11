@@ -16,7 +16,7 @@ website:
         text: Home
 
       - href: projects/index.qmd
-        text: Projects
+        text: Current Projects
 
       - href: about.qmd
         text: About
@@ -26,6 +26,9 @@ website:
 
       - href: PD/PD.qmd
         text: Professional Development
+
+      - href: publications/publications.qmd
+        text: Publications
 
 format:
   html:
