@@ -21,10 +21,23 @@ about:
 
 I am a researcher at University of Oslo. 
 
-My work is about Electronic Health Records. My thesis is about ...
+My work is about Electronic Health Records.
 
-I am interested in developing packages. For example, ...
 
+## Education 
+
+University of Oslo | Oslo, Norway
+
+PhD in Biostatistics | Oct 2022
+
+University of Oslo | Oslo, Norway
+
+MSc in Statistics | June 2018
+
+## Experience
+
+I have developed X R packages, published Y papers. 
 
 :::
+
 

@@ -9,17 +9,15 @@ website:
   page-footer:
     left: "&copy; Copyright 2022, Author"
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-
+    background: "#2af0f7" # Teal
   navbar:
+    background: "#2af0f7" # Teal
     left:
       - href: index.qmd
-        text: Home
+        text: About
 
       - href: projects/index.qmd
         text: Current Projects
-
-      - href: about.qmd
-        text: About
 
       - href: teaching/teaching.qmd
         text: Teaching
@@ -38,6 +36,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+
 
 
 
