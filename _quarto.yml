@@ -30,6 +30,9 @@ website:
       - href: publications/publications.qmd
         text: Publications
 
+      - href: talks/talks.qmd
+        text: Talks
+
 format:
   html:
     theme: cosmo
