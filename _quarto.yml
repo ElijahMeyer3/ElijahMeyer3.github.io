@@ -35,6 +35,7 @@ website:
 
 format:
   html:
+    page-layout: full
     theme: darkly
     css: styles.css
     toc: true

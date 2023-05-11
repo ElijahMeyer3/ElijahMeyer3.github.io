@@ -25,14 +25,28 @@
     "href": "index.html",
     "title": "Author",
     "section": "",
-    "text": "Current Course Website\n  \n  \n    \n     Github\n  \n\n  \n  \nI am a researcher at University of Oslo.\nMy work is about Electronic Health Records.\n\n\nDuke University | Durham, NC \nPostdoctoral Associate | Current\nMontana State University | Bozeman, MT \nPh.D. in Statistics with a focus in Education | DATE\nMontana State University | Bozeman, MT \nMaster’s in Statistics | DATE\n\n\n\nI have developed X R packages, published Y papers."
+    "text": "Currently a postdoctoral associate with responsibilities as both a lead instructor and researcher at Duke University. \nTraining and (insert years) experience in both developing and instructing in-person and online courses in statistics and data science that range from 30 through 170 students.\nCurrent research focuses on how to better the teaching and learning experiences for those involved. Other research interests include sports analytics and creating dynamic tools to support data driven decision making."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Author",
+    "section": "Education",
+    "text": "Education\nMontana State University | Bozeman, MT \nPh.D. in Statistics with a focus in Education | DATE\nMontana State University | Bozeman, MT \nMaster’s in Statistics | DATE"
   },
   {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "A description of Project"
+    "text": "Currently, I am in the process of creating a Data Science specialization course for Coursera, and am co-authoring a paper Introductory Data Science: A Blueprint to Navigate Curricular, Pedagogical, and Computational Challenges that provides a flexible blueprint for instructors to develop or redesign an introductory data science course to include a variety of technologies while simultaneously discussing how to navigate challenges such as large class sizes, and technology integration."
+  },
+  {
+    "objectID": "projects/index.html#project-i",
+    "href": "projects/index.html#project-i",
+    "title": "Projects",
+    "section": "Project I",
+    "text": "Project I\nA description of Project"
   },
   {
     "objectID": "projects/index.html#project-ii",

@@ -14,18 +14,16 @@ about:
       href: https://github.com
 ---
 
-::: {#hero-heading}
+## About
 
-I am a researcher at University of Oslo. 
+Currently a postdoctoral associate with responsibilities as both a lead instructor and researcher at Duke University. ![](Duke-University-Logo.png){width="50" height="45" fig-align="right"} 
 
-My work is about Electronic Health Records.
+Training and (insert years) experience in both developing and instructing in-person and online courses in statistics and data science that range from 30 through 170 students. 
+
+Current research focuses on how to better the teaching and learning experiences for those involved. Other research interests include sports analytics and creating dynamic tools to support data driven decision making.
 
 
 ## Education 
-
-Duke University | Durham, NC ![](Duke-University-Logo.png){width="50" height="45" fig-align="right"}
-
-Postdoctoral Associate | Current
 
 Montana State University | Bozeman, MT ![](MontanaStateUniversity_Icon.png){width="50" height="50" fig-align="right"}
 
@@ -36,10 +34,5 @@ Montana State University | Bozeman, MT ![](MontanaStateUniversity_Icon.png){widt
 Master's in Statistics | DATE
 
 
-## Experience
-
-I have developed X R packages, published Y papers. 
-
-:::
 
 

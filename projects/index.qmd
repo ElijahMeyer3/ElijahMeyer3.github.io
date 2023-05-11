@@ -3,6 +3,8 @@ title: "Projects"
 subtitle: "Here is an overview of the project I have been working on."
 ---
 
+Currently, I am in the process of creating a Data Science specialization course for Coursera, and am co-authoring a paper *Introductory Data Science: A Blueprint to Navigate Curricular, Pedagogical, and Computational Challenges* that provides a flexible blueprint for instructors to develop or redesign an introductory data science course to include a variety of technologies while simultaneously discussing how to navigate challenges such as large class sizes, and technology integration. 
+
 ## Project I
 
 A description of Project 
