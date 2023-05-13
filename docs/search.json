@@ -37,22 +37,8 @@
   {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
-    "title": "Projects",
+    "title": "Hello World!",
     "section": "",
-    "text": "Currently, I am in the process of creating a Data Science specialization course for Coursera, and am co-authoring a paper Introductory Data Science: A Blueprint to Navigate Curricular, Pedagogical, and Computational Challenges that provides a flexible blueprint for instructors to develop or redesign an introductory data science course to include a variety of technologies while simultaneously discussing how to navigate challenges such as large class sizes, and technology integration."
-  },
-  {
-    "objectID": "projects/index.html#project-i",
-    "href": "projects/index.html#project-i",
-    "title": "Projects",
-    "section": "Project I",
-    "text": "Project I\nA description of Project"
-  },
-  {
-    "objectID": "projects/index.html#project-ii",
-    "href": "projects/index.html#project-ii",
-    "title": "Projects",
-    "section": "Project II",
-    "text": "Project II\nA description of Project"
+    "text": "Publication\nPaper I\nPaper II"
   }
 ]

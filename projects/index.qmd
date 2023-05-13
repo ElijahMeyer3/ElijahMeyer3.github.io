@@ -1,18 +1,38 @@
 ---
-title: "Projects"
-subtitle: "Here is an overview of the project I have been working on."
+title: ""
+subtitle: ""
 ---
 
-Currently, I am in the process of creating a Data Science specialization course for Coursera, and am co-authoring a paper *Introductory Data Science: A Blueprint to Navigate Curricular, Pedagogical, and Computational Challenges* that provides a flexible blueprint for instructors to develop or redesign an introductory data science course to include a variety of technologies while simultaneously discussing how to navigate challenges such as large class sizes, and technology integration. 
+# Projects in Progress
 
-## Project I
+-   Explore with Shiny: Creating a Statistics Inquiry-Based Learning Tool\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *with undergraduate Alina Yin*
 
-A description of Project 
+-   Creating a Data Science Specialization in Coursera \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *with Dr. Mine Çetinkaya-Rundel*
 
+-   Introductory Data Science: A Blueprint to Navigate Curricular, Pedagogical, and Computational Challenges \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *with Dr. Mine Çetinkaya-Rundel*
+
+-   Motivation Matters: Developing an Instrument to Measure Newer Instructors' Situational Motivation to Use Active Learning in the Classroom when Teaching Statistics \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *with Dr. Jennifer Green*
+
+-   Data Driven Disc Golf: Dynamic Interactive Application to help Players Spatially Visualize a Disc Golf Course \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *with Dr. Christian Stratton*
+
+-   Undergraduate Independent Study (Pending)
+
+## Explore with Shiny: Creating a Statistics Inquiry-Based Learning Tool
+
+Creating a dynamic interactive shiny application in R to better students' understanding of statistics and data science. The application focuses on bootstrapping and permutations. The concepts of bootstrapping and permutations are staples in undergraduate statistics and data science courses, but are often difficult to understand conceptually and perform in practice. Our application provides students the opportunity to learn about these concepts through investigation, while simultaneously developing the needed coding skills to perform these concepts on their own. Currently, their exists interactive web applications as means for students to learn about bootstrapping and permutations. However, they solely focus on conceptualizing bootstrapping and permutations, leaving students without the necessary skills to implement such concepts in practice.
+
+This project aims to support teaching at Duke and other universities by continuing the advancement of statistics and data science education, specifically at the undergraduate level. Further, this application sets the foundation for future work to best understand how students learn to code and implement these processes when first being introduced to bootstrapping and permutations.
+
+This project plans to extend to include the development of assessment questions surrounding the application.
 
 ## Project II
 
-A description of Project 
+Currently, I am in the process of creating a Data Science specialization course for Coursera, and am co-authoring a paper *Introductory Data Science: A Blueprint to Navigate Curricular, Pedagogical, and Computational Challenges* that provides a flexible blueprint for instructors to develop or redesign an introductory data science course to include a variety of technologies while simultaneously discussing how to navigate challenges such as large class sizes, and technology integration.
 
 # Publication
 
