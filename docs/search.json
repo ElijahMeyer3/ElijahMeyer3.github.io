@@ -40,5 +40,26 @@
     "title": "Hello World!",
     "section": "",
     "text": "Explore with Shiny: Creating a Statistics Inquiry-Based Learning Tool\n       with undergraduate Alina Yin\nCreating a Data Science Specialization in Coursera\n       with Dr. Mine Çetinkaya-Rundel\nIntroductory Data Science: A Blueprint to Navigate Curricular, Pedagogical, and Computational Challenges\n       with Dr. Mine Çetinkaya-Rundel\nMotivation Matters: Developing an Instrument to Measure Newer Instructors’ Situational Motivation to Use Active Learning in the Classroom when Teaching Statistics\n       with Dr. Jennifer Green\nData Driven Disc Golf: Dynamic Interactive Application to help Players Spatially Visualize a Disc Golf Course\n       with Dr. Christian Stratton\nUndergraduate Independent Study (Pending)\n\n\n\n\nCreating a dynamic interactive shiny application in R to better students’ understanding of statistics and data science. The application focuses on bootstrapping and permutations. Our application provides students the opportunity to learn about these concepts through investigation, while simultaneously developing the needed coding skills to perform these concepts on their own.\nThis project aims to support teaching at Duke and other universities by continuing the advancement of statistics and data science education, specifically at the undergraduate level. Further, this application sets the foundation for future work to best understand how students learn to code and implement these processes when first being introduced to bootstrapping and permutations.\nThis project plans to extend to include the development of assessment questions surrounding the application.\n\n\n\nCreating a multi-course Data Science with R specialization for Coursera. This includes modules such as: Data Visualization; Importing + Wrangling Data; Data Ethics; Modeling + Prediction; Inference. This project entails the creation of videos and assessment questions on such topics that self-enrolled students must watch and complete before earning their Data Science with R specialization.\nCurrently, I am in the process of creating a Data Science specialization course for Coursera, and am\n\n\n\nCo-authoring a paper Introductory Data Science: A Blueprint to Navigate Curricular, Pedagogical, and Computational Challenges that provides a flexible blueprint for instructors to develop or redesign an introductory data science course to include a variety of technologies while simultaneously discussing how to navigate challenges such as large class sizes, and technology integration.\n\n\n\nUnderstanding how self-determined their use of active learning is through their motivations to use active learning can help inform how to support newer instructors’ adoption of such techniques. Thus, we designed a five-phase study to develop an instrument that measures newer statistics instructors’ types of motivations to use active learning.\n\n\n\nDescription Coming\n\n\n\nPending"
+  },
+  {
+    "objectID": "teaching/teaching.html",
+    "href": "teaching/teaching.html",
+    "title": "Hello World!",
+    "section": "",
+    "text": "All courses and workshops I’ve taught with embedded links in the pictures to course websites or textbooks of the course. Teaching philosophy can be found below the list of courses."
+  },
+  {
+    "objectID": "teaching/teaching.html#courses",
+    "href": "teaching/teaching.html#courses",
+    "title": "Hello World!",
+    "section": "Courses",
+    "text": "Courses\nIntroductory to Data Science and Statistical Reasoning\nDuke University\nFall 2022 | Spring 2023 | Summer 2023\n\n\n\nMontana State Introductory Statistics with R\nMontana State University\nFall 2022 | Spring 2023 | Summer 2023\n\n\nIntermediate Statistics with R  \nMontana State University\nFall 2022 | Spring 2023 | Summer 2023"
+  },
+  {
+    "objectID": "teaching/teaching.html#class-links",
+    "href": "teaching/teaching.html#class-links",
+    "title": "Hello World!",
+    "section": "Class Links",
+    "text": "Class Links"
   }
 ]

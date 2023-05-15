@@ -1,4 +1,54 @@
 ---
-title: "Teaching"
-subtitle: "Here is an overview of the project I have been working on."
+title: ""
+subtitle: ""
 ---
+
+All courses and workshops I've taught with embedded links in the pictures to course websites or textbooks of the course. Teaching philosophy can be found below the list of courses.   
+
+::: grid
+::: g-col-9
+## Courses
+
+**Introductory to Data Science and Statistical Reasoning** 
+
+Duke University
+
+Fall 2022 \| Spring 2023 \| Summer 2023\
+\
+\
+
+**Montana State Introductory Statistics with R** 
+
+Montana State University
+
+Fall 2022 \| Spring 2023 \| Summer 2023\
+\
+
+
+**Intermediate Statistics with R** \ 
+
+Montana State University
+
+Fall 2022 \| Spring 2023 \| Summer 2023\
+:::
+
+::: g-col-3
+## Class Links
+
+[![](sta199.png){width="150" height="150" fig-align="center"}](https://sta199-s23-2.github.io/)
+
+[![](Montana-State-Bobcats-Logo.png){width="150" height="120" fig-align="center"}](https://mtstateintrostats.github.io/IntroStatTextbook/authors.html)
+
+
+[![](Montana-State-Bobcats-Logo.png){width="150" height="120" fig-align="center"}](https://scholarworks.montana.edu/xmlui/handle/1/2999)
+
+:::
+:::
+
+<hr/>
+
+# Philosophy 
+
+![](datafestpic.png){width="250" height="320" fig-align="center"}
+
+Prior to my time at Duke, I’ve taught multiple sections of Introductory and Intermediate Statistics at Montana State, developed their Intermediate Statistics online course, and helped integrate R into the Introductory Statistics curricula. I prioritize community, communication, and respect in my classroom. I want to provide a space where we can freely talk about the material, embrace mistakes, and learn together throughout the semester.
