@@ -3,7 +3,7 @@ title: ""
 subtitle: ""
 ---
 
-All courses and workshops I've taught with embedded links in the pictures to course websites or textbooks of the course. Teaching philosophy can be found below the list of courses.
+All courses and workshops I've been the lead instructor of and taught, with embedded links in the pictures to course websites or textbooks of the course. Teaching philosophy can be found below the list of courses.
 
 <hr/>
 
@@ -29,14 +29,14 @@ Fall 2022 \| Spring 2023 \| Summer 2023\
 
 Montana State University
 
-Fall 2022 \| Spring 2023 \| Summer 2023\
+11 sections of in-person + online since Spring 2013 through Spring 2022\
 \
 
-**Intermediate Statistics with R**  
+**Intermediate Statistics with R** 
 
 Montana State University
 
-Fall 2022 \| Spring 2023 \| Summer 2023\
+7 sections of in-person + online since Spring 2013 through Fall 2019\
 \
 
 **R-studio Data Science Workshops**
@@ -48,14 +48,17 @@ Fall 2019 \| Spring 2020
 ::: g-col-3
 ## Class Links
 
-[![](sta199.png){width="150" height="150" fig-align="center"}](https://sta199-s23-2.github.io/)
+[![](sta199.png){width="150" height="150" fig-align="center"}](https://sta199-s23-2.github.io/)\
+\
 
-[![](Montana-State-Bobcats-Logo.png){width="150" height="120" fig-align="center"}](https://mtstateintrostats.github.io/IntroStatTextbook/authors.html)
+[![](Montana-State-Bobcats-Logo.png){width="150" height="120" fig-align="center"}](https://mtstateintrostats.github.io/IntroStatTextbook/authors.html)\
+\
 
-[![](Montana-State-Bobcats-Logo.png){width="150" height="120" fig-align="center"}](https://scholarworks.montana.edu/xmlui/handle/1/2999)
+[![](Montana-State-Bobcats-Logo.png){width="150" height="120" fig-align="center"}](https://scholarworks.montana.edu/xmlui/handle/1/2999)\
+\
 
 
-[![](rstudio.png){width="120" height="120" fig-align="center"}](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html)
+[![](rstudio.png){width="120" height="130" fig-align="left"}](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html)
 :::
 :::
 
