@@ -33,6 +33,9 @@ website:
       - href: talks/talks.qmd
         text: Talks
 
+      - href: cv/cv.qmd
+        text: CV
+
 
 format:
   html:
