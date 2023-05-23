@@ -30,9 +30,6 @@ website:
       - href: publications/publications.qmd
         text: Publications
 
-      - href: talks/talks.qmd
-        text: Talks
-
       - href: cv/cv.qmd
         text: CV
 
