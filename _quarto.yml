@@ -33,7 +33,7 @@ website:
       - href: talks/talks.qmd
         text: Talks
 
-      - href: CV/cv.qmd
+      - href: CV/CV.qmd
         text: CV
 
 format:
