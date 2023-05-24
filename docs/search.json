@@ -49,6 +49,27 @@
     "text": "Explore with Shiny: Creating a Statistics Inquiry-Based Learning Tool\n       with undergraduate Alina Yin\nCreating a Data Science Specialization in Coursera\n       with Dr. Mine Çetinkaya-Rundel\nIntroductory Data Science: A Blueprint to Navigate Curricular, Pedagogical, and Computational Challenges\n       with Dr. Mine Çetinkaya-Rundel\nMotivation Matters: Developing an Instrument to Measure Newer Instructors’ Situational Motivation to Use Active Learning in the Classroom when Teaching Statistics\n       with Dr. Jennifer Green\nData Driven Disc Golf: Dynamic Interactive Application to help Players Spatially Visualize a Disc Golf Course\n       with Dr. Christian Stratton\nUndergraduate Independent Study (Pending)\n\n\nFor further descriptions or potential collaboration inquires, please contact me at esm70@duke.edu\n\nFor a list of completed projects / work experience, please see CV"
   },
   {
+    "objectID": "publications/publications.html",
+    "href": "publications/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Carnegie, N., Hancock, S., Meyer, E., Schmidt, J., & Yager, M. (2021). Montana State Introductory Statistics with R. Montana State University. Adapted from Çetinkaya-Rundel, M. & Hardin, J. (2021). Introduction to Modern Statistics. OpenIntro.\nHammack, R., Gannon, P., Foreman, C., & Meyer, E. (2021). Impacts of professional development focused on teaching engineering applications of mathematics and science. School Science and Mathematics. 2020; 120: 413-424.\nMeyer, E., Greenwood, M., & Tran, T. (2016) Statistical methods for detecting groups of patterns in daily step count activity profiles. Skyline: The Big Sky Undergraduate Journal, 4 (1).\nMeyer, E., Greenwood, M., & Tran, T. (2016). Daily Step Count Profile Data for 61 Days dataset. Montana State University ScholarWorks."
+  },
+  {
+    "objectID": "publications/publications.html#in-review-preparation",
+    "href": "publications/publications.html#in-review-preparation",
+    "title": "Publications",
+    "section": "In Review / Preparation",
+    "text": "In Review / Preparation\nMeyer, E., Green, J., Arnold, L., & Wickstrom, M., (in review) New perspectives on understanding graduate student instructors’ longitudinal experiences with active learning. Submitted to International Journal of Teacher Education.\nRubin, N., Tackett, M., Çetinkaya-Rundel, M., & Meyer, E., (in preparation) Evaluating Student Perceptions of Assessment in Quantitative Studies. Preparation to submit to International Journal of STEM Education."
+  },
+  {
+    "objectID": "talks/talks.html",
+    "href": "talks/talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Meyer, E. S., Green, J. L., & Arnold, E. G. A longitudinal study of GTAs’ experiences with active learning. Refereed poster presentation at the United States Conference on Teaching Statistics, State College, PA, May, 2019.\nArnold, E. L., ^Meyer, E. S., & Green, J. L. Investigating future secondary mathematics teachers’ development in statistics. Refereed virtual breakout session at United States Conference on Teaching Statistics, State College, PA, May, 2019.\nMeyer, E. S., & Green, J. L. Statistics behind the skill: Cluster analysis and data visualization on disc golf data. Refereed presentation at The Cascadia Symposium on Statistics in Sports, Vancouver, BC, August, 2018.\nMeyer, E. S., & Green, J. L. Statistics behind the skill: Cluster analysis and data visualization on disc golf data. Contributed poster presentation at the Joint Statistical Meetings, Vancouver, BC, July, 2018.\nMeyer, E. S., Green, J. L., & Arnold, E. G. Graduate teaching assistants’ evolving conceptualizations of active learning. Refereed poster presentation at the Electronic Conference on Teaching Statistics, May, 2018. https://www.causeweb.org/cause/ecots/ecots18/posters/2-04\nMeyer, E. S., Arnold, E. G., & *Green, J. L. Graduate teaching assistants’ evolving conceptualizations of active learning. Refereed poster presentation at the Conference on Research in Undergraduate Mathematics Education, San Diego, CA, February, 2018."
+  },
+  {
     "objectID": "teaching/teaching.html",
     "href": "teaching/teaching.html",
     "title": "Hello World!",
@@ -68,5 +89,12 @@
     "title": "Hello World!",
     "section": "Class Links",
     "text": "Class Links"
+  },
+  {
+    "objectID": "teaching/teaching.html#teaching-awards",
+    "href": "teaching/teaching.html#teaching-awards",
+    "title": "Hello World!",
+    "section": "Teaching Awards",
+    "text": "Teaching Awards\nTeaching excellence award at MSU: Students who have made a high impact on undergraduates’ lives by helping them grow in knowledge, skill, and confidence\n2022\nOutstanding Graduate Teaching Assistant Award, Montana State University College of Letters and Science\n2021\nOutstanding Graduate Teaching Assistant Award, Montana State University Department of Mathematical Sciences\n2017"
   }
 ]
