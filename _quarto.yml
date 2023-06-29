@@ -7,7 +7,7 @@ website:
   title: "Hello World!"
 
   page-footer:
-    left: "&copy; Copyright 2022, Author"
+    left: "&copy; Copyright 2022, Elijah Meyer"
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     background: "#2af0f7" # Teal
   navbar:
