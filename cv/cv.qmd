@@ -1,4 +1,8 @@
 ---
-title: "CV"
-subtitle: "Here is an overview of the project I have been working on."
+title: ""
+subtitle: ""
 ---
+
+## CV
+
+Please feel free to download and view my full CV [here](pdf-link)

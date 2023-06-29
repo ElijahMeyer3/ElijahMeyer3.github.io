@@ -1,7 +1,11 @@
 ---
-title: "Talks"
-subtitle: "Here is an overview of presentations given"
+title: ""
+subtitle: ""
 ---
+
+## Talks
+
+Here is an overview of presentations given.
 
 **Meyer, E. S.**, Green, J. L., & Arnold, E. G. New perspectives on understanding graduate student
 instructors' longitudinal experiences with active learning. Refereed poster presentation at the United

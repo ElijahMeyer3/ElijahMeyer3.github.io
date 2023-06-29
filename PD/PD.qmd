@@ -1,9 +1,14 @@
 ---
-title: "Professional Development"
-subtitle: "Here is an overview of the PD programs I have helped develop, organize, and/or run"
+title: ""
+subtitle: ""
 ---
 
-### Duke Statistical Science Head TA Training
+## Professional Development
+
+Here is an overview of the professional development (PD) programs I have helped develop, organize, and/or run.
+
+
+#### Duke Statistical Science Head TA Training
 
 Spring 2023
 
@@ -11,7 +16,7 @@ Collaboratively redesigned and updated training preparation materials for TAs in
 
 -- with Dr. Joan Durso & Dr. Mine Çetinkaya-Rundel
 
-### Montana State Excellence in Teaching Symposium
+#### Montana State Excellence in Teaching Symposium
 
 Fall 2017 \| Spring 2018
 

@@ -1,7 +1,13 @@
 ---
-title: "Publications"
-subtitle: "Here is an overview of the publications that are published, in review, or in preparation."
+title: ""
+subtitle: ""
 ---
+
+## Publications 
+
+Here is an overview of the publications that are published, in review, or in preparation.
+
+<hr/>
 
 Carnegie, N., Hancock, S., **Meyer, E.**, Schmidt, J., & Yager, M. (2021). [Montana State Introductory  Statistics with R. Montana State University.](https://mtstateintrostats.github.io/IntroStatTextbook/) Adapted from Çetinkaya-Rundel, M. & Hardin, J. (2021). [Introduction to Modern Statistics. OpenIntro.](https://openintro-ims.netlify.app/)
 
@@ -20,7 +26,7 @@ Montana State University ScholarWorks.
 **Meyer, E.**, Green, J., Arnold, L., & Wickstrom, M., (in review) New perspectives on
 understanding graduate student instructors' longitudinal experiences with active learning. Submitted to International Journal of Teacher Education. 
 
-Rubin, N., Tackett, M., Çetinkaya-Rundel, M., & **Meyer, E.,** (in preparation) Evaluating Student Perceptions of Assessment in Quantitative Studies. Preparation to submit to International Journal of STEM Education. 
+Rubin, N., Tackett, M., Çetinkaya-Rundel, M., & **Meyer, E.,** (in review) Evaluating Student Perceptions of Assessment in Quantitative Studies. Preparation to submit to Statistics Education Research Journal. 
 
 
 

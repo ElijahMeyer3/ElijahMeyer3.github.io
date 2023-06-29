@@ -3,15 +3,15 @@ title: ""
 subtitle: ""
 ---
 
-All courses and workshops I've been the lead instructor of and taught, with embedded links in the pictures to course websites or textbooks of the course. Teaching philosophy can be found below the list of courses.
-
-<hr/>
-
-# Philosophy
+## Philosophy
 
 ![](datafestpic.png){width="250" height="320" fig-align="center"}
 
 Prior to my time at Duke, I've taught multiple sections of Introductory and Intermediate Statistics at Montana State, developed their Intermediate Statistics online course, and helped integrate R into the Introductory Statistics curricula. I prioritize community, communication, and respect in my classroom. I want to provide a space where we can freely talk about the material, embrace mistakes, and learn together throughout the semester.
+
+<hr/>
+
+All courses and workshops I've been the lead instructor with embedded links in the pictures to course websites or textbooks of the course can be seen below.
 
 ::: grid
 ::: g-col-9
