@@ -1,6 +1,6 @@
 ---
 title: "Talks"
-subtitle: "Here is an overview of the project I have been working on."
+subtitle: "Here is an overview of presentations given"
 ---
 
 **Meyer, E. S.**, Green, J. L., & Arnold, E. G. New perspectives on understanding graduate student
@@ -25,6 +25,6 @@ golf data. Contributed poster presentation at the Joint Statistical Meetings, Va
 of active learning. Refereed poster presentation at the Electronic Conference on Teaching Statistics,
 May, 2018. https://www.causeweb.org/cause/ecots/ecots18/posters/2-04
 
-*Meyer, E. S., *Arnold, E. G., & *Green, J. L. Graduate teaching assistants' evolving
+**Meyer, E. S.,** Arnold, E. G., & Green, J. L. Graduate teaching assistants' evolving
 conceptualizations of active learning. Refereed poster presentation at the Conference on Research in
 Undergraduate Mathematics Education, San Diego, CA, February, 2018.

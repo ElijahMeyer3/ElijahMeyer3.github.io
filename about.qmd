@@ -5,6 +5,7 @@ about:
   id: hero-heading
   template: trestles
   image-shape: rectangle
+  image-width: 10em
   links:
     - icon: twitter
       text: Twitter

@@ -5,6 +5,7 @@ about:
   id: hero-heading
   template: trestles
   image-shape: rectangle
+  image-width: 10em
   links:
     - icon: bar-chart-line-fill
       text: Current Course Website
@@ -18,16 +19,40 @@ about:
 
 Currently a postdoctoral associate with responsibilities as both a lead instructor and researcher at Duke University. ![](Duke-University-Logo.png){width="50" height="45" fig-align="right"} 
 
-Training and over 8 years experience in both developing and instructing in-person and online courses in statistics and data science that range from 30 through 170 students. 
+<hr/>
 
-Current research focuses on how to better the teaching and learning experiences for those involved. Other research interests include sports analytics and creating dynamic tools to support data driven decision making.
+Training and over 8 years experience in both developing and instructing in-person and online courses in statistics and data science that ranged from 30 through 170 students. 
 
+<hr/>
+
+Teaching interests align with my passion to inspire students into paths of statistics and data science. Thus, I am interested in courses such as, but not limited to: 
+
+-- Introduction & Intermediate Data Science Courses 
+
+-- Introduction & Intermediate Statistics and Data Analysis Courses 
+
+-- Introductory and Advanced Data Visualization in R 
+
+-- Data Literacy 
+
+-- Spatial Data Analysis 
+
+-- Probability Theory 
+
+<hr/>
+
+Current research focuses on how to better the teaching and learning experiences for those involved. Other research interests include sports analytics and creating dynamic tools to support data driven decision making. Interested in developing statistics and data
+science curricula for both introductory and more advanced courses. 
+
+<hr/>
 
 ## Education 
 
 Montana State University | Bozeman, MT ![](MontanaStateUniversity_Icon.png){width="50" height="50" fig-align="right"}
 
 Ph.D. in Statistics with a focus in Education | August 2022
+
+<hr/>
 
 Montana State University | Bozeman, MT ![](MontanaStateUniversity_Icon.png){width="50" height="50" fig-align="right"}
 
