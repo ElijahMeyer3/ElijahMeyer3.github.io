@@ -4,7 +4,7 @@ project:
 
 website:
   page-navigation: true
-  title: "Hello World!"
+  title: "Welcome!"
 
   page-footer:
     left: "&copy; Copyright 2022, Elijah Meyer"
