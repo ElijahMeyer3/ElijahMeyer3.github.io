@@ -1,5 +1,5 @@
 ---
-title: "Author"
+title: "Dr. Elijah Meyer"
 image: profile.png
 about:
   id: hero-heading
@@ -21,7 +21,7 @@ Currently a postdoctoral associate with responsibilities as both a lead instruct
 
 <hr/>
 
-Training and over 8 years experience in both developing and instructing in-person and online courses in statistics and data science that ranged from 30 through 170 students. 
+Training and over 8 years experience in both developing and instructing in-person and online courses in statistics and data science that range from 15 through 170 students. 
 
 <hr/>
 

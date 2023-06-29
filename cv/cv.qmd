@@ -5,4 +5,4 @@ subtitle: ""
 
 ## CV
 
-Please feel free to download and view my full CV [here](pdf-link)
+Please feel free to view and download my full CV [here](https://github.com/ElijahMeyer3/website/blob/main/cv/CV.pdf)
