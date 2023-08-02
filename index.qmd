@@ -1,5 +1,6 @@
 ---
 title: "Dr. Elijah Meyer"
+subtitle: "Statistics and Data Science Instructor and Researcher" 
 image: profile.png
 about:
   id: hero-heading
