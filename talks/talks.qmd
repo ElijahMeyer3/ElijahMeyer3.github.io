@@ -7,6 +7,8 @@ subtitle: ""
 
 Here is an overview of presentations given.
 
+**Meyer, E. S.** Teaching Quarto in Introductory Data Science. Topic-Contributed Paper Session at Joint Statistical Meetings (JSM) titled [*Teaching (with) Quarto*](https://mine-cetinkaya-rundel.github.io/teach-with-quarto/), August, 2023. With Çetinkaya-Rundel, M., Bodwin, K., Rundel, C., and Tackett, M. 
+
 **Meyer, E. S.**, Green, J. L., & Arnold, E. G. New perspectives on understanding graduate student
 instructors' longitudinal experiences with active learning. Refereed poster presentation at the United
 States Conference on Teaching Statistics (virtual), July, 2021.
