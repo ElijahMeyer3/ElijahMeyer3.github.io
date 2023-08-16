@@ -7,4 +7,4 @@ subtitle: ""
 
 Please feel free to view and download my full CV [here](https://github.com/ElijahMeyer3/website/blob/main/cv/CV.pdf)
 
---- Last Updated 6-29-2023
+--- Last Updated 8-16-2023
