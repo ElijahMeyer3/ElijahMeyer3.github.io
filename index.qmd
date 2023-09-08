@@ -10,19 +10,19 @@ about:
   links:
     - icon: bar-chart-line-fill
       text: Current Course Website
-      href: https://sta199-summer-1.github.io/
+      href: https://sta199-f23-1.github.io/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/ElijahMeyer3?tab=repositories
 ---
 
 ## About
 
-Currently a postdoctoral associate with responsibilities as both a lead instructor and researcher at Duke University. ![](Duke-University-Logo.png){width="50" height="45" fig-align="right"} 
+A postdoctoral associate with responsibilities as both a lead instructor and researcher at Duke University. ![](Duke-University-Logo.png){width="50" height="45" fig-align="right"} 
 
 <hr/>
 
-Training and over 8 years experience in both developing and instructing in-person and online courses in statistics and data science that range from 15 through 170 students. 
+Training and over 9 years experience in both developing and instructing in-person and online courses in statistics and data science that range from 15 through 170 students. 
 
 <hr/>
 

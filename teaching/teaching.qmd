@@ -21,7 +21,7 @@ All courses and workshops I've been the lead instructor with embedded links in t
 
 Duke University
 
-Fall 2022 \| Spring 2023 \| Summer 2023\
+[Fall 2022](sta199-f22-2.github.io/) \| [Spring 2023](https://sta199-s23-2.github.io/) \| [Summer 2023](https://sta199-summer-1.github.io/) \| [Fall 2023](https://sta199-f23-1.github.io/)\
 \
 \
 
@@ -32,7 +32,7 @@ Montana State University
 11 sections of in-person + online since Spring 2013 through Spring 2022\
 \
 
-**Intermediate Statistics with R** 
+**Intermediate Statistics with R**
 
 Montana State University
 
@@ -42,7 +42,6 @@ Montana State University
 **R-studio Data Science Workshops**
 
 Fall 2019 \| Spring 2020
-
 :::
 
 ::: g-col-3
@@ -57,15 +56,13 @@ Fall 2019 \| Spring 2020
 [![](Montana-State-Bobcats-Logo.png){width="150" height="120" fig-align="center"}](https://scholarworks.montana.edu/xmlui/handle/1/2999)\
 \
 
-
 [![](rstudio.png){width="120" height="130" fig-align="left"}](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html)
 :::
 :::
 
+## Teaching Awards
 
-## Teaching Awards 
-
-[Teaching excellence award at MSU: Students who have made a high impact on undergraduates’ lives by helping them grow in knowledge, skill, and confidence](https://www.montana.edu/gradschool/excellence_awards.html) 
+[Teaching excellence award at MSU: Students who have made a high impact on undergraduates' lives by helping them grow in knowledge, skill, and confidence](https://www.montana.edu/gradschool/excellence_awards.html)
 
 2022
 
@@ -73,9 +70,6 @@ Fall 2019 \| Spring 2020
 
 2021
 
-Outstanding Graduate Teaching Assistant Award, Montana State University Department
-of Mathematical Sciences
+Outstanding Graduate Teaching Assistant Award, Montana State University Department of Mathematical Sciences
 
 2017
-
-
