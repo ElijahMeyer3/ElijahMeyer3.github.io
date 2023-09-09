@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Elijah Meyer - Dr.&nbsp;Elijah Meyer</title>
+<title>Elijah Meyer - Teaching</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,9 +29,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -62,7 +65,38 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-courses .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-subtitle','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-courses'] = new List('listing-courses', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 </head>
 
@@ -84,7 +118,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
@@ -92,7 +126,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link active" href="./teaching.html" aria-current="page"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
@@ -122,52 +156,157 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#courses" id="toc-courses" class="nav-link active" data-scroll-target="#courses">Courses</a></li>
+  <li><a href="#philosophy" id="toc-philosophy" class="nav-link" data-scroll-target="#philosophy">Philosophy</a></li>
+  <li><a href="#interests" id="toc-interests" class="nav-link" data-scroll-target="#interests">Interests</a></li>
+  <li><a href="#awards" id="toc-awards" class="nav-link" data-scroll-target="#awards">Awards</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="profile.png" class="about-image
-  rectangle " style="width: 10em;">
+<main class="content column-page-left" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Dr.&nbsp;Elijah Meyer</h1>
-<p class="subtitle lead">Postdoctoral Associate</p>
+<h1 class="title">Teaching</h1>
 </div>
-<div class="quarto-title-meta column-page">
+
+
+
+<div class="quarto-title-meta column-page-left">
+
+    
+  
+    
   </div>
+  
+
+
 </header>
-    <div class="about-links">
-  <a href="mailto:elijah.meyer@duke.edu" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">Email</span>
-  </a>
-  <a href="https://github.com/ElijahMeyer3" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-  <a href="https://sta199-f23-1.github.io/" class="about-link" rel="" target="">
-    <i class="bi bi-bar-chart-line-fill"></i>
-     <span class="about-link-text">Currently Teaching</span>
-  </a>
+
+<section id="courses" class="level2">
+<h2 class="anchored" data-anchor-id="courses">Courses</h2>
+<div id="listing-courses" class="quarto-listing quarto-listing-container-table">
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+</th>
+<th>
+Course
+</th>
+<th>
+Institution
+</th>
+<th>
+Website
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-file-modified-sort="1694229759944" data-listing-reading-time-sort="1" data-listing-word-count-sort="122" data-listing-image-sort="/courses/images/data-carpentry.png" data-listing-title-sort="Data visualization with ggplot2" data-listing-description-sort="Spring 2020 <br> Fall 2019">
+<td>
+<a href="./courses/data-carpentry.html" class="image listing-image"><img src="./courses/images/data-carpentry.png" style="height: 75px;" alt="Data Carpentry logo"></a>
+</td>
+<td>
+<a href="./courses/data-carpentry.html" class="title listing-title">Data visualization with ggplot2</a>
+</td>
+<td>
+<span class="listing-subtitle">Data Carpentry</span>
+</td>
+<td>
+<a href="./courses/data-carpentry.html" class="description listing-description">Spring 2020 <br> Fall 2019</a>
+</td>
+</tr>
+<tr data-index="1" data-listing-file-modified-sort="1694230818813" data-listing-reading-time-sort="1" data-listing-word-count-sort="102" data-listing-image-sort="/courses/images/sta-199.png" data-listing-title-sort="STA 199 - Introduction to Data Science and Statistical Thinking" data-listing-description-sort="Fall 2023: Section 1 and Section 2 <br> Summer 2023 <br> Spring 2023 <br> Fall 2022">
+<td>
+<a href="./courses/sta-199.html" class="image listing-image"><img src="./courses/images/sta-199.png" style="height: 75px;" alt="Hex logo for STA 199"></a>
+</td>
+<td>
+<a href="./courses/sta-199.html" class="title listing-title">STA 199 - Introduction to Data Science and Statistical Thinking</a>
+</td>
+<td>
+<span class="listing-subtitle">Duke University</span>
+</td>
+<td>
+<a href="./courses/sta-199.html" class="description listing-description">Fall 2023: Section 1 and Section 2 <br> Summer 2023 <br> Spring 2023 <br> Fall 2022</a>
+</td>
+</tr>
+<tr data-index="2" data-listing-file-modified-sort="1694230716518" data-listing-reading-time-sort="1" data-listing-word-count-sort="95" data-listing-image-sort="/courses/images/montana-state-bobcats.png" data-listing-title-sort="Stat 216 - Introduction to Statistics" data-listing-description-sort="11 sections, in-person + online since Spring 2013 - Spring 2022">
+<td>
+<a href="./courses/stat-216.html" class="image listing-image"><img src="./courses/images/montana-state-bobcats.png" style="height: 75px;" alt="Montana State Bobcats logo"></a>
+</td>
+<td>
+<a href="./courses/stat-216.html" class="title listing-title">Stat 216 - Introduction to Statistics</a>
+</td>
+<td>
+<span class="listing-subtitle">Montana State University</span>
+</td>
+<td>
+<a href="./courses/stat-216.html" class="description listing-description">11 sections, in-person + online since Spring 2013 - Spring 2022</a>
+</td>
+</tr>
+<tr data-index="3" data-listing-file-modified-sort="1694230711120" data-listing-reading-time-sort="1" data-listing-word-count-sort="139" data-listing-image-sort="/courses/images/montana-state-bobcats.png" data-listing-title-sort="Stat 217 - Intermediate Statistics" data-listing-description-sort="7 sections, in-person + online since Spring 2013 - Fall 2019">
+<td>
+<a href="./courses/stat-217.html" class="image listing-image"><img src="./courses/images/montana-state-bobcats.png" style="height: 75px;" alt="Montana State Bobcats logo"></a>
+</td>
+<td>
+<a href="./courses/stat-217.html" class="title listing-title">Stat 217 - Intermediate Statistics</a>
+</td>
+<td>
+<span class="listing-subtitle">Montana State University</span>
+</td>
+<td>
+<a href="./courses/stat-217.html" class="description listing-description">7 sections, in-person + online since Spring 2013 - Fall 2019</a>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="listing-no-matching d-none">
+No matching items
 </div>
-  </div>
-  <div class="about-contents"><main class="content column-page" id="quarto-document-content">
-<p>I am a postdoc in the <a href="https://stat.duke.edu/">Department of Statistical Science</a> at Duke University, working with <a href="https://mine-cr.com">Dr.&nbsp;Mine Çetinkaya-Rundel</a> on data science education, with responsibilities as a lead instructor and researcher. I have training and over nine years of experience in both developing and instructing in-person and online courses in statistics and data science that range from 15 to 170 students.</p>
-<p>My current research focuses on how to better the teaching and learning experiences for those involved. Additionally, I’m interested in sports analytics and creating dynamic tools to support data driven decision making as well as in developing statistics and data science curricula for both introductory and more advanced courses.</p>
-<hr>
-<p><img src="images/Duke-University-Logo.png" class="img-fluid" style="float: left; padding: 10px;" data-fig-align="left" width="75"> Postdoc in Statistical Science, August 2022 - present</p>
-<p>Duke University | Durham, NC</p>
-<p><br></p>
-<p><img src="images/MontanaStateUniversity_Icon.png" class="img-fluid" style="float: left; padding: 10px;" width="75">Ph.D.&nbsp;in Statistics with a focus in Education, August 2022</p>
-<p>Montana State University | Bozeman, MT</p>
-<p><br></p>
-<p><img src="images/MontanaStateUniversity_Icon.png" class="img-fluid" style="float: left; padding: 10px;" width="75">Master’s in Statistics, May 2018</p>
-<p>Montana State University | Bozeman, MT</p>
+</div>
+</section>
+<section id="philosophy" class="level2">
+<h2 class="anchored" data-anchor-id="philosophy">Philosophy</h2>
+<div class="quarto-figure quarto-figure-right" style="float: right; padding-left: 20px;">
+<figure class="figure">
+<p><img src="images/datafest.png" class="img-fluid figure-img" alt="Photo with two students from Duke DataFest 2023" width="250"></p>
+</figure>
+</div>
+<p>Prior to my time at Duke, I’ve taught multiple sections of Introductory and Intermediate Statistics at Montana State, developed their Intermediate Statistics online course, and helped integrate R into the Introductory Statistics curricula. I prioritize community, communication, and respect in my classroom. I want to provide a space where we can freely talk about the material, embrace mistakes, and learn together throughout the semester.</p>
+<p><br><br></p>
+</section>
+<section id="interests" class="level2">
+<h2 class="anchored" data-anchor-id="interests">Interests</h2>
+<p>My teaching interests align with my passion to inspire students into paths of statistics and data science. Thus, I am interested in courses such as, but not limited to:</p>
+<ul>
+<li>Introduction &amp; Intermediate Data Science Courses</li>
+<li>Introduction &amp; Intermediate Statistics and Data Analysis Courses</li>
+<li>Introductory and Advanced Data Visualization in R</li>
+<li>Data Literacy</li>
+<li>Spatial Data Analysis</li>
+<li>Probability Theory</li>
+</ul>
+</section>
+<section id="awards" class="level2">
+<h2 class="anchored" data-anchor-id="awards">Awards</h2>
+<ul>
+<li><p><a href="https://www.montana.edu/gradschool/excellence_awards.html">Teaching Excellence Award</a> at Montana State University (2022) given to students who have made a high impact on undergraduates’ lives by helping them grow in knowledge, skill, and confidence</p></li>
+<li><p><a href="https://www.montana.edu/news/21240/students-faculty-and-staff-honored-in-2021-cls-awards">Outstanding Graduate Teaching Assistant Award</a> at Montana State University - College of Letters and Science (2021)</p></li>
+<li><p>Outstanding Graduate Teaching Assistant Award at Montana State University - Department of Mathematical Sciences (2017)</p></li>
+</ul>
 
 
-</main></div>
-</div>
- <!-- /main -->
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -188,6 +327,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

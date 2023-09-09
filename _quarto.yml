@@ -4,11 +4,11 @@ project:
 
 website:
   page-navigation: true
-  title: "Welcome!"
+  title: "Elijah Meyer"
 
   page-footer:
-    left: "&copy; Copyright 2022, Elijah Meyer"
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; Copyright 2023, Elijah Meyer"
+    right: "This page is built with 🤍 and [Quarto](https://quarto.org/)."
     background: "#2af0f7" # Teal
   navbar:
     background: "#2af0f7" # Teal
@@ -18,32 +18,27 @@ website:
       - href: index.qmd
         text: About
 
-      - href: projects/index.qmd
-        text: Current Projects
+      - href: projects.qmd
+        text: Projects
 
-      - href: teaching/teaching.qmd
+      - href: teaching.qmd
         text: Teaching
 
-      - href: PD/PD.qmd
+      - href: pd.qmd
         text: Professional Development
 
-      - href: publications/publications.qmd
+      - href: publications.qmd
         text: Publications
 
-      - href: talks/talks.qmd
+      - href: talks.qmd
         text: Talks
 
-      - href: cv/CV.pdf
+      - href: CV.pdf
         text: CV
 
 
 format:
   html:
     page-layout: full
-    theme: darkly
-    css: styles.css
+    theme: [darkly, styles.scss]
     toc: true
-
-
-
-

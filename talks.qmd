@@ -1,0 +1,19 @@
+---
+title: "Talks"
+---
+
+-   **Meyer, E. S.** [Teaching Quarto in Introductory Data Science](https://mine-cetinkaya-rundel.github.io/teach-with-quarto/talks/2-intro-ds/). Part of a topic-contributed paper session titled [*Teaching (with) Quarto*](https://mine-cetinkaya-rundel.github.io/teach-with-quarto/) with Çetinkaya-Rundel, M., Bodwin, K., Rundel, C., and Tackett, M. Joint Statistical Meetings. Toronto, CA. August, 2023.
+
+-   **Meyer, E. S.**, Green, J. L., & Arnold, E. G. New perspectives on understanding graduate student instructors' longitudinal experiences with active learning. Refereed poster presentation at the United States Conference on Teaching Statistics (virtual). July, 2021.
+
+-   **Meyer, E. S.**, Green, J. L., & Arnold, E. G. A longitudinal study of GTAs' experiences with active learning. Refereed poster presentation at the United States Conference on Teaching Statistics, State College, PA. May, 2019.
+
+-   Arnold, E. L., **Meyer, E. S.** S., & Green, J. L. Investigating future secondary mathematics teachers' development in statistics. Refereed virtual breakout session at United States Conference on Teaching Statistics, State College, PA. May, 2019.
+
+-   **Meyer, E. S.**, & Green, J. L. Statistics behind the skill: Cluster analysis and data visualization on disc golf data. Refereed presentation at The Cascadia Symposium on Statistics in Sports, Vancouver, BC. August, 2018.
+
+-   **Meyer, E. S.**, & Green, J. L. Statistics behind the skill: Cluster analysis and data visualization on disc golf data. Contributed poster presentation at the Joint Statistical Meetings, Vancouver, BC. July, 2018.
+
+-   **Meyer, E. S.**, Green, J. L., & Arnold, E. G. [Graduate teaching assistants' evolving conceptualizations of active learning](https://www.causeweb.org/cause/ecots/ecots18/posters/2-04). Refereed poster presentation at the Electronic Conference on Teaching Statistics, May, 2018.
+
+-   **Meyer, E. S.,** Arnold, E. G., & Green, J. L. Graduate teaching assistants' evolving conceptualizations of active learning. Refereed poster presentation at the Conference on Research in Undergraduate Mathematics Education, San Diego, CA, February, 2018.

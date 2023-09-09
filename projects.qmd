@@ -1,0 +1,20 @@
+---
+title: "Projects"
+---
+
+Below is a list of projects I'm currently involved with. For further descriptions or potential collaboration inquires, please contact me at [elijah.meyer\@duke.edu](mailto:elijah.meyer@duke.edu). You can also find a list of my completed projects and work experience on my [CV](https://elijahmeyer3.github.io/CV.pdf).
+
+-   Explore with Shiny: Creating a Statistics Inquiry-Based Learning Tool\
+           *with Alina Yin (Undergraduate student)*
+
+-   Creating a Data Science Specialization in Coursera\
+           *with [Dr. Mine Çetinkaya-Rundel](https://mine-cr.com/)*
+
+-   Introductory Data Science: A Blueprint to Navigate Curricular, Pedagogical, and Computational Challenges\
+           *with [Dr. Mine Çetinkaya-Rundel](https://mine-cr.com/)*
+
+-   Motivation Matters: Developing an Instrument to Measure Newer Instructors' Situational Motivation to Use Active Learning in the Classroom when Teaching Statistics\
+           *with [Dr. Jennifer Green](https://directory.natsci.msu.edu/Directory/Profiles/Person/102588?org=2&group=152)*
+
+-   Data Driven Disc Golf: Dynamic Interactive Application to help Players Spatially Visualize a Disc Golf Course\
+           *with Dr. Christian Stratton*

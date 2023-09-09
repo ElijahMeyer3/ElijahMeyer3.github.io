@@ -1,6 +1,7 @@
 ---
 title: "Dr. Elijah Meyer"
-subtitle: "Statistics and Data Science Instructor and Researcher" 
+subtitle: "Postdoctoral Associate" 
+toc: false
 image: profile.png
 about:
   id: hero-heading
@@ -8,57 +9,35 @@ about:
   image-shape: rectangle
   image-width: 10em
   links:
-    - icon: bar-chart-line-fill
-      text: Current Course Website
-      href: https://sta199-f23-1.github.io/
+    - icon: envelope
+      text: Email
+      href: mailto:elijah.meyer@duke.edu
     - icon: github
       text: Github
-      href: https://github.com/ElijahMeyer3?tab=repositories
+      href: https://github.com/ElijahMeyer3
+    - icon: bar-chart-line-fill
+      text: Currently Teaching
+      href: https://sta199-f23-1.github.io/
 ---
 
-## About
+I am a postdoc in the [Department of Statistical Science](https://stat.duke.edu/) at Duke University, working with [Dr. Mine Çetinkaya-Rundel](https://mine-cr.com) on data science education, with responsibilities as a lead instructor and researcher. I have training and over nine years of experience in both developing and instructing in-person and online courses in statistics and data science that range from 15 to 170 students.
 
-A postdoctoral associate with responsibilities as both a lead instructor and researcher at Duke University. ![](Duke-University-Logo.png){width="50" height="45" fig-align="right"} 
+My current research focuses on how to better the teaching and learning experiences for those involved. Additionally, I'm interested in sports analytics and creating dynamic tools to support data driven decision making as well as in developing statistics and data science curricula for both introductory and more advanced courses.
 
-<hr/>
+------------------------------------------------------------------------
 
-Training and over 9 years experience in both developing and instructing in-person and online courses in statistics and data science that range from 15 through 170 students. 
+![](images/Duke-University-Logo.png){style="float: left; padding: 10px;" fig-align="left" width="75"} Postdoc in Statistical Science, August 2022 - present
 
-<hr/>
+Duke University \| Durham, NC
 
-Teaching interests align with my passion to inspire students into paths of statistics and data science. Thus, I am interested in courses such as, but not limited to: 
+<br>
 
--- Introduction & Intermediate Data Science Courses 
+![](images/MontanaStateUniversity_Icon.png){style="float: left; padding: 10px;" width="75"}Ph.D. in Statistics with a focus in Education, August 2022
 
--- Introduction & Intermediate Statistics and Data Analysis Courses 
+Montana State University \| Bozeman, MT
 
--- Introductory and Advanced Data Visualization in R 
+<br>
 
--- Data Literacy 
+![](images/MontanaStateUniversity_Icon.png){style="float: left; padding: 10px;" width="75"}Master's in Statistics, May 2018
 
--- Spatial Data Analysis 
-
--- Probability Theory 
-
-<hr/>
-
-Current research focuses on how to better the teaching and learning experiences for those involved. Other research interests include sports analytics and creating dynamic tools to support data driven decision making. Interested in developing statistics and data
-science curricula for both introductory and more advanced courses. 
-
-<hr/>
-
-## Education 
-
-Montana State University | Bozeman, MT ![](MontanaStateUniversity_Icon.png){width="50" height="50" fig-align="right"}
-
-Ph.D. in Statistics with a focus in Education | August 2022
-
-<hr/>
-
-Montana State University | Bozeman, MT ![](MontanaStateUniversity_Icon.png){width="50" height="50" fig-align="right"}
-
-Master's in Statistics | May 2018
-
-
-
-
+Montana State University \| Bozeman, MT

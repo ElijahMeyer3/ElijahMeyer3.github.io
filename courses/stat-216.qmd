@@ -1,0 +1,11 @@
+---
+title: Stat 216 - Introduction to Statistics
+subtitle: Montana State University
+image: images/montana-state-bobcats.png
+image-alt: Montana State Bobcats logo
+editor: visual
+---
+
+[11 sections, in-person + online since Spring 2013 - Spring 2022](https://mtstateintrostats.github.io/IntroStatTextbook/authors.html)
+
+> Stat 216 is designed to engage you in the statistical investigation process from developing a research question and data collection methods to analyzing and communicating results. This course introduces basic descriptive and inferential statistics using both traditional (normal and t-distribution) and simulation approaches including confidence intervals and hypothesis testing on means (one-sample, two-sample, paired), proportions (one-sample, two-sample), regression and correlation. You will be exposed to numerous examples of real-world applications of statistics that are designed to help you develop a conceptual understanding of statistics.

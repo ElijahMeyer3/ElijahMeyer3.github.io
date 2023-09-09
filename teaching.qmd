@@ -1,0 +1,49 @@
+---
+title: "Teaching"
+listing:
+  id: courses
+  contents: courses
+  type: table
+  fields: [image, title, subtitle, description]
+  field-links: [image, title, description]
+  field-display-names:
+    title: "Course"
+    subtitle: "Institution"
+    description: "Website"
+  image-height: 75px
+  sort-ui: false
+  filter-ui: false
+tbl-colwidths: [20,60,40,100]
+---
+
+## Courses
+
+::: {#courses}
+:::
+
+## Philosophy
+
+![](images/datafest.png){style="float: right; padding-left: 20px;" fig-alt="Photo with two students from Duke DataFest 2023" fig-align="right" width="250"}
+
+Prior to my time at Duke, I've taught multiple sections of Introductory and Intermediate Statistics at Montana State, developed their Intermediate Statistics online course, and helped integrate R into the Introductory Statistics curricula. I prioritize community, communication, and respect in my classroom. I want to provide a space where we can freely talk about the material, embrace mistakes, and learn together throughout the semester.
+
+<br><br>
+
+## Interests
+
+My teaching interests align with my passion to inspire students into paths of statistics and data science. Thus, I am interested in courses such as, but not limited to:
+
+-   Introduction & Intermediate Data Science Courses
+-   Introduction & Intermediate Statistics and Data Analysis Courses
+-   Introductory and Advanced Data Visualization in R
+-   Data Literacy
+-   Spatial Data Analysis
+-   Probability Theory
+
+## Awards
+
+-   [Teaching Excellence Award](https://www.montana.edu/gradschool/excellence_awards.html) at Montana State University (2022) given to students who have made a high impact on undergraduates' lives by helping them grow in knowledge, skill, and confidence
+
+-   [Outstanding Graduate Teaching Assistant Award](https://www.montana.edu/news/21240/students-faculty-and-staff-honored-in-2021-cls-awards) at Montana State University - College of Letters and Science (2021)
+
+-   Outstanding Graduate Teaching Assistant Award at Montana State University - Department of Mathematical Sciences (2017)
