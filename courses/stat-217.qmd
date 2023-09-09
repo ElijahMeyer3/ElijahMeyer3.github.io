@@ -1,0 +1,11 @@
+---
+title: Stat 217 - Intermediate Statistics
+subtitle: Montana State University
+image: images/montana-state-bobcats.png
+image-alt: Montana State Bobcats logo
+editor: visual
+---
+
+[7 sections, in-person + online since Spring 2013 - Fall 2019](https://scholarworks.montana.edu/xmlui/handle/1/2999)
+
+> Introductory statistics courses prepare students to think statistically but cover relatively few statistical methods. Building on the basic statistical thinking emphasized in an introductory course, a second course in statistics at the undergraduate level can explore a large number of statistical methods. This text covers more advanced graphical summaries, One-Way ANOVA with pair-wise comparisons, Two-Way ANOVA, Chi-square testing, and simple and multiple linear regression models. Models with interactions are discussed in the Two-Way ANOVA and multiple linear regression setting with categorical explanatory variables. Randomization-based inferences are used to introduce new parametric distributions and to enhance understanding of what evidence against the null hypothesis \"looks like\". Throughout, the use of the statistical software R via RStudio is emphasized with all useful code and data sets provided within the text.
