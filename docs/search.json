@@ -1,149 +1,135 @@
 [
   {
-    "objectID": "teaching/teaching.html",
-    "href": "teaching/teaching.html",
-    "title": "Welcome!",
+    "objectID": "pd.html",
+    "href": "pd.html",
+    "title": "Professional Development",
     "section": "",
-    "text": "Prior to my time at Duke, I’ve taught multiple sections of Introductory and Intermediate Statistics at Montana State, developed their Intermediate Statistics online course, and helped integrate R into the Introductory Statistics curricula. I prioritize community, communication, and respect in my classroom. I want to provide a space where we can freely talk about the material, embrace mistakes, and learn together throughout the semester.\n\nAll courses and workshops I’ve been the lead instructor with embedded links in the pictures to course websites or textbooks of the course can be seen below."
+    "text": "Below is an overview of the professional development (PD) programs I have helped develop, organize, and/or run."
   },
   {
-    "objectID": "teaching/teaching.html#philosophy",
-    "href": "teaching/teaching.html#philosophy",
-    "title": "Welcome!",
+    "objectID": "pd.html#head-ta-training",
+    "href": "pd.html#head-ta-training",
+    "title": "Professional Development",
+    "section": "Head TA Training",
+    "text": "Head TA Training\nDuke Statistical Science, Spring 2023\nRedesigned and updated training preparation materials for TAs in leadership positions in the statistical sciences department at Duke. Co-lead training meeting to prepare TAs on their administrative and teaching responsibilities.\nCollaboration with Dr. Joan Durso and Dr. Mine Çetinkaya-Rundel."
+  },
+  {
+    "objectID": "pd.html#excellence-in-teaching-symposium",
+    "href": "pd.html#excellence-in-teaching-symposium",
+    "title": "Professional Development",
+    "section": "Excellence in Teaching Symposium",
+    "text": "Excellence in Teaching Symposium\nMontana State University, Fall 2017 and Spring 2018\nRedesigned and led year-long teaching program for new graduate students. Organized and executed weekly hour-long teaching symposiums, such as Responding to Student Contributions in the Classroom. Mentored new graduate students on how to effectively communicate mathematical and statistical concepts to diverse learners.\nCollaboration with Dr. Jennifer Green and Dr. Liz Arnold."
+  },
+  {
+    "objectID": "courses/stat-216.html",
+    "href": "courses/stat-216.html",
+    "title": "Stat 216 - Introduction to Statistics",
     "section": "",
-    "text": "Prior to my time at Duke, I’ve taught multiple sections of Introductory and Intermediate Statistics at Montana State, developed their Intermediate Statistics online course, and helped integrate R into the Introductory Statistics curricula. I prioritize community, communication, and respect in my classroom. I want to provide a space where we can freely talk about the material, embrace mistakes, and learn together throughout the semester.\n\nAll courses and workshops I’ve been the lead instructor with embedded links in the pictures to course websites or textbooks of the course can be seen below."
+    "text": "11 sections, in-person + online since Spring 2013 - Spring 2022\n\nStat 216 is designed to engage you in the statistical investigation process from developing a research question and data collection methods to analyzing and communicating results. This course introduces basic descriptive and inferential statistics using both traditional (normal and t-distribution) and simulation approaches including confidence intervals and hypothesis testing on means (one-sample, two-sample, paired), proportions (one-sample, two-sample), regression and correlation. You will be exposed to numerous examples of real-world applications of statistics that are designed to help you develop a conceptual understanding of statistics."
   },
   {
-    "objectID": "teaching/teaching.html#courses",
-    "href": "teaching/teaching.html#courses",
-    "title": "Welcome!",
-    "section": "Courses",
-    "text": "Courses\nIntroductory to Data Science and Statistical Reasoning\nDuke University\nFall 2022 | Spring 2023 | Summer 2023 | Fall 2023\n\n\n\nMontana State Introductory Statistics with R\nMontana State University\n11 sections of in-person + online since Spring 2013 through Spring 2022\n\n\nIntermediate Statistics with R\nMontana State University\n7 sections of in-person + online since Spring 2013 through Fall 2019\n\n\nR-studio Data Science Workshops\nFall 2019 | Spring 2020"
-  },
-  {
-    "objectID": "teaching/teaching.html#class-links",
-    "href": "teaching/teaching.html#class-links",
-    "title": "Welcome!",
-    "section": "Class Links",
-    "text": "Class Links"
-  },
-  {
-    "objectID": "teaching/teaching.html#teaching-awards",
-    "href": "teaching/teaching.html#teaching-awards",
-    "title": "Welcome!",
-    "section": "Teaching Awards",
-    "text": "Teaching Awards\nTeaching excellence award at MSU: Students who have made a high impact on undergraduates’ lives by helping them grow in knowledge, skill, and confidence\n2022\nOutstanding Graduate Teaching Assistant Award, Montana State University College of Letters and Science\n2021\nOutstanding Graduate Teaching Assistant Award, Montana State University Department of Mathematical Sciences\n2017"
-  },
-  {
-    "objectID": "publications/publications.html",
-    "href": "publications/publications.html",
-    "title": "Welcome!",
+    "objectID": "courses/sta-199.html",
+    "href": "courses/sta-199.html",
+    "title": "STA 199 - Introduction to Data Science and Statistical Thinking",
     "section": "",
-    "text": "Here is an overview of the publications that are published, in review, or in preparation.\n\nCarnegie, N., Hancock, S., Meyer, E., Schmidt, J., & Yager, M. (2021). Montana State Introductory Statistics with R. Montana State University. Adapted from Çetinkaya-Rundel, M. & Hardin, J. (2021). Introduction to Modern Statistics. OpenIntro.\nHammack, R., Gannon, P., Foreman, C., & Meyer, E. (2021). Impacts of professional development focused on teaching engineering applications of mathematics and science. School Science and Mathematics. 2020; 120: 413-424.\nMeyer, E., Greenwood, M., & Tran, T. (2016) Statistical methods for detecting groups of patterns in daily step count activity profiles. Skyline: The Big Sky Undergraduate Journal, 4 (1).\nMeyer, E., Greenwood, M., & Tran, T. (2016). Daily Step Count Profile Data for 61 Days dataset. Montana State University ScholarWorks."
-  },
-  {
-    "objectID": "publications/publications.html#publications",
-    "href": "publications/publications.html#publications",
-    "title": "Welcome!",
-    "section": "",
-    "text": "Here is an overview of the publications that are published, in review, or in preparation.\n\nCarnegie, N., Hancock, S., Meyer, E., Schmidt, J., & Yager, M. (2021). Montana State Introductory Statistics with R. Montana State University. Adapted from Çetinkaya-Rundel, M. & Hardin, J. (2021). Introduction to Modern Statistics. OpenIntro.\nHammack, R., Gannon, P., Foreman, C., & Meyer, E. (2021). Impacts of professional development focused on teaching engineering applications of mathematics and science. School Science and Mathematics. 2020; 120: 413-424.\nMeyer, E., Greenwood, M., & Tran, T. (2016) Statistical methods for detecting groups of patterns in daily step count activity profiles. Skyline: The Big Sky Undergraduate Journal, 4 (1).\nMeyer, E., Greenwood, M., & Tran, T. (2016). Daily Step Count Profile Data for 61 Days dataset. Montana State University ScholarWorks."
-  },
-  {
-    "objectID": "publications/publications.html#in-review-preparation",
-    "href": "publications/publications.html#in-review-preparation",
-    "title": "Welcome!",
-    "section": "In Review / Preparation",
-    "text": "In Review / Preparation\nMeyer, E., Green, J., Arnold, L., & Wickstrom, M., (in review) New perspectives on understanding graduate student instructors’ longitudinal experiences with active learning. Submitted to International Journal of Teacher Education.\nRubin, N., Tackett, M., Çetinkaya-Rundel, M., & Meyer, E., (in review) Evaluating Student Perceptions of Assessment in Quantitative Studies. Preparation to submit to Statistics Education Research Journal."
-  },
-  {
-    "objectID": "PD/PD.html",
-    "href": "PD/PD.html",
-    "title": "Welcome!",
-    "section": "",
-    "text": "Here is an overview of the professional development (PD) programs I have helped develop, organize, and/or run.\n\n\nSpring 2023\nCollaboratively redesigned and updated training preparation materials for TAs in leadership positions in the statistical sciences department at Duke. Co-lead training meeting to prepare TAs on their administrative and teaching responsibilities.\n– with Dr. Joan Durso & Dr. Mine Çetinkaya-Rundel\n\n\n\nFall 2017 | Spring 2018\nCollaboratively redesigned and led year-long teaching program for new graduate students. Organized and executed weekly hour-long teaching symposiums, such as Responding to Student Contributions in the Classroom. Mentored new graduate students on how to effectively communicate mathematical and statistical concepts to diverse learners.\n– with Dr. Jennifer Green & Dr. Liz Arnold"
-  },
-  {
-    "objectID": "PD/PD.html#professional-development",
-    "href": "PD/PD.html#professional-development",
-    "title": "Welcome!",
-    "section": "",
-    "text": "Here is an overview of the professional development (PD) programs I have helped develop, organize, and/or run.\n\n\nSpring 2023\nCollaboratively redesigned and updated training preparation materials for TAs in leadership positions in the statistical sciences department at Duke. Co-lead training meeting to prepare TAs on their administrative and teaching responsibilities.\n– with Dr. Joan Durso & Dr. Mine Çetinkaya-Rundel\n\n\n\nFall 2017 | Spring 2018\nCollaboratively redesigned and led year-long teaching program for new graduate students. Organized and executed weekly hour-long teaching symposiums, such as Responding to Student Contributions in the Classroom. Mentored new graduate students on how to effectively communicate mathematical and statistical concepts to diverse learners.\n– with Dr. Jennifer Green & Dr. Liz Arnold"
-  },
-  {
-    "objectID": "cv/cv.html",
-    "href": "cv/cv.html",
-    "title": "Welcome!",
-    "section": "",
-    "text": "Please feel free to view and download my full CV here\n— Last Updated 8-16-2023"
-  },
-  {
-    "objectID": "cv/cv.html#cv",
-    "href": "cv/cv.html#cv",
-    "title": "Welcome!",
-    "section": "",
-    "text": "Please feel free to view and download my full CV here\n— Last Updated 8-16-2023"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Author",
-    "section": "",
-    "text": "Template for about page\n\n\n\nIt is possible to use different templates for the About page. Check this link to find out more."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Author",
-    "section": "Education",
-    "text": "Education\nUniversity of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022\nUniversity of Oslo | Oslo, Norway\nMSc in Statistics | June 2018"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Author",
-    "section": "Experience",
-    "text": "Experience\nI have developed X R packages, published Y papers."
+    "text": "Fall 2023: Section 1 and Section 2  Summer 2023  Spring 2023  Fall 2022\n\nIntroduction to data science and statistical thinking. Learn to explore, visualize, and analyze data to understand natural phenomena, investigate patterns, model outcomes, and make predictions, and do so in a reproducible and shareable manner. Gain experience in data wrangling and munging, exploratory data analysis, predictive modeling, and data visualization, and effective communication of results. Work on problems and case studies inspired by and based on real-world questions and data. The course will focus on the R statistical computing language. No statistical or computing background is necessary."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Dr. Elijah Meyer",
     "section": "",
-    "text": "A postdoctoral associate with responsibilities as both a lead instructor and researcher at Duke University. \n\nTraining and over 9 years experience in both developing and instructing in-person and online courses in statistics and data science that range from 15 through 170 students.\n\nTeaching interests align with my passion to inspire students into paths of statistics and data science. Thus, I am interested in courses such as, but not limited to:\n– Introduction & Intermediate Data Science Courses\n– Introduction & Intermediate Statistics and Data Analysis Courses\n– Introductory and Advanced Data Visualization in R\n– Data Literacy\n– Spatial Data Analysis\n– Probability Theory\n\nCurrent research focuses on how to better the teaching and learning experiences for those involved. Other research interests include sports analytics and creating dynamic tools to support data driven decision making. Interested in developing statistics and data science curricula for both introductory and more advanced courses."
+    "text": "I am a postdoc in the Department of Statistical Science at Duke University, working with Dr. Mine Çetinkaya-Rundel on data science education, with responsibilities as a lead instructor and researcher. I have training and over nine years of experience in both developing and instructing in-person and online courses in statistics and data science that range from 15 to 170 students.\nMy current research focuses on how to better the teaching and learning experiences for those involved. Additionally, I’m interested in sports analytics and creating dynamic tools to support data driven decision making as well as in developing statistics and data science curricula for both introductory and more advanced courses.\n\n Postdoc in Statistical Science, August 2022 - present\nDuke University | Durham, NC\n\nPh.D. in Statistics with a focus in Education, August 2022\nMontana State University | Bozeman, MT\n\nMaster’s in Statistics, May 2018\nMontana State University | Bozeman, MT"
   },
   {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Dr. Elijah Meyer",
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
     "section": "",
-    "text": "A postdoctoral associate with responsibilities as both a lead instructor and researcher at Duke University. \n\nTraining and over 9 years experience in both developing and instructing in-person and online courses in statistics and data science that range from 15 through 170 students.\n\nTeaching interests align with my passion to inspire students into paths of statistics and data science. Thus, I am interested in courses such as, but not limited to:\n– Introduction & Intermediate Data Science Courses\n– Introduction & Intermediate Statistics and Data Analysis Courses\n– Introductory and Advanced Data Visualization in R\n– Data Literacy\n– Spatial Data Analysis\n– Probability Theory\n\nCurrent research focuses on how to better the teaching and learning experiences for those involved. Other research interests include sports analytics and creating dynamic tools to support data driven decision making. Interested in developing statistics and data science curricula for both introductory and more advanced courses."
+    "text": "Meyer, E. S. Teaching Quarto in Introductory Data Science. Part of a topic-contributed paper session titled Teaching (with) Quarto with Çetinkaya-Rundel, M., Bodwin, K., Rundel, C., and Tackett, M. Joint Statistical Meetings. Toronto, CA. August, 2023.\nMeyer, E. S., Green, J. L., & Arnold, E. G. New perspectives on understanding graduate student instructors’ longitudinal experiences with active learning. Refereed poster presentation at the United States Conference on Teaching Statistics (virtual). July, 2021.\nMeyer, E. S., Green, J. L., & Arnold, E. G. A longitudinal study of GTAs’ experiences with active learning. Refereed poster presentation at the United States Conference on Teaching Statistics, State College, PA. May, 2019.\nArnold, E. L., Meyer, E. S. S., & Green, J. L. Investigating future secondary mathematics teachers’ development in statistics. Refereed virtual breakout session at United States Conference on Teaching Statistics, State College, PA. May, 2019.\nMeyer, E. S., & Green, J. L. Statistics behind the skill: Cluster analysis and data visualization on disc golf data. Refereed presentation at The Cascadia Symposium on Statistics in Sports, Vancouver, BC. August, 2018.\nMeyer, E. S., & Green, J. L. Statistics behind the skill: Cluster analysis and data visualization on disc golf data. Contributed poster presentation at the Joint Statistical Meetings, Vancouver, BC. July, 2018.\nMeyer, E. S., Green, J. L., & Arnold, E. G. Graduate teaching assistants’ evolving conceptualizations of active learning. Refereed poster presentation at the Electronic Conference on Teaching Statistics, May, 2018.\nMeyer, E. S., Arnold, E. G., & Green, J. L. Graduate teaching assistants’ evolving conceptualizations of active learning. Refereed poster presentation at the Conference on Research in Undergraduate Mathematics Education, San Diego, CA, February, 2018."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Dr. Elijah Meyer",
-    "section": "Education",
-    "text": "Education\nMontana State University | Bozeman, MT \nPh.D. in Statistics with a focus in Education | August 2022\n\nMontana State University | Bozeman, MT \nMaster’s in Statistics | May 2018"
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects in Progress",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Projects in Progress\n\nExplore with Shiny: Creating a Statistics Inquiry-Based Learning Tool\n       with undergraduate Alina Yin\nCreating a Data Science Specialization in Coursera\n       with Dr. Mine Çetinkaya-Rundel\nIntroductory Data Science: A Blueprint to Navigate Curricular, Pedagogical, and Computational Challenges\n       with Dr. Mine Çetinkaya-Rundel\nMotivation Matters: Developing an Instrument to Measure Newer Instructors’ Situational Motivation to Use Active Learning in the Classroom when Teaching Statistics\n       with Dr. Jennifer Green\nData Driven Disc Golf: Dynamic Interactive Application to help Players Spatially Visualize a Disc Golf Course\n       with Dr. Christian Stratton\nUndergraduate Independent Study (Pending)\n\n\nFor further descriptions or potential collaboration inquires, please contact me at esm70@duke.edu\n\nFor a list of completed projects / work experience, please see CV"
+    "text": "Course\n\n\nInstitution\n\n\nWebsite\n\n\n\n\n\n\n\n\n\nData visualization with ggplot2\n\n\nData Carpentry\n\n\n\n\n\n\n\n\n\n\nSTA 199 - Introduction to Data Science and Statistical Thinking\n\n\nDuke University\n\n\n\n\n\n\n\n\n\n\nStat 216 - Introduction to Statistics\n\n\nMontana State University\n\n\n\n\n\n\n\n\n\n\nStat 217 - Intermediate Statistics\n\n\nMontana State University\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "talks/talks.html",
-    "href": "talks/talks.html",
-    "title": "Welcome!",
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Teaching",
     "section": "",
-    "text": "Here is an overview of presentations given.\nMeyer, E. S. Teaching Quarto in Introductory Data Science. Topic-Contributed Paper Session at Joint Statistical Meetings (JSM) titled Teaching (with) Quarto, August, 2023. With Çetinkaya-Rundel, M., Bodwin, K., Rundel, C., and Tackett, M.\nMeyer, E. S., Green, J. L., & Arnold, E. G. New perspectives on understanding graduate student instructors’ longitudinal experiences with active learning. Refereed poster presentation at the United States Conference on Teaching Statistics (virtual), July, 2021.\nMeyer, E. S., Green, J. L., & Arnold, E. G. A longitudinal study of GTAs’ experiences with active learning. Refereed poster presentation at the United States Conference on Teaching Statistics, State College, PA, May, 2019.\nArnold, E. L., ^Meyer, E. S., & Green, J. L. Investigating future secondary mathematics teachers’ development in statistics. Refereed virtual breakout session at United States Conference on Teaching Statistics, State College, PA, May, 2019.\nMeyer, E. S., & Green, J. L. Statistics behind the skill: Cluster analysis and data visualization on disc golf data. Refereed presentation at The Cascadia Symposium on Statistics in Sports, Vancouver, BC, August, 2018.\nMeyer, E. S., & Green, J. L. Statistics behind the skill: Cluster analysis and data visualization on disc golf data. Contributed poster presentation at the Joint Statistical Meetings, Vancouver, BC, July, 2018.\nMeyer, E. S., Green, J. L., & Arnold, E. G. Graduate teaching assistants’ evolving conceptualizations of active learning. Refereed poster presentation at the Electronic Conference on Teaching Statistics, May, 2018. https://www.causeweb.org/cause/ecots/ecots18/posters/2-04\nMeyer, E. S., Arnold, E. G., & Green, J. L. Graduate teaching assistants’ evolving conceptualizations of active learning. Refereed poster presentation at the Conference on Research in Undergraduate Mathematics Education, San Diego, CA, February, 2018."
+    "text": "Course\n\n\nInstitution\n\n\nWebsite\n\n\n\n\n\n\n\n\n\nData visualization with ggplot2\n\n\nData Carpentry\n\n\n\n\n\n\n\n\n\n\nSTA 199 - Introduction to Data Science and Statistical Thinking\n\n\nDuke University\n\n\n\n\n\n\n\n\n\n\nStat 216 - Introduction to Statistics\n\n\nMontana State University\n\n\n\n\n\n\n\n\n\n\nStat 217 - Intermediate Statistics\n\n\nMontana State University\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "talks/talks.html#talks",
-    "href": "talks/talks.html#talks",
-    "title": "Welcome!",
+    "objectID": "teaching.html#philosophy",
+    "href": "teaching.html#philosophy",
+    "title": "Teaching",
+    "section": "Philosophy",
+    "text": "Philosophy\n\n\n\n\n\nPrior to my time at Duke, I’ve taught multiple sections of Introductory and Intermediate Statistics at Montana State, developed their Intermediate Statistics online course, and helped integrate R into the Introductory Statistics curricula. I prioritize community, communication, and respect in my classroom. I want to provide a space where we can freely talk about the material, embrace mistakes, and learn together throughout the semester."
+  },
+  {
+    "objectID": "teaching.html#interests",
+    "href": "teaching.html#interests",
+    "title": "Teaching",
+    "section": "Interests",
+    "text": "Interests\nMy teaching interests align with my passion to inspire students into paths of statistics and data science. Thus, I am interested in courses such as, but not limited to:\n\nIntroduction & Intermediate Data Science Courses\nIntroduction & Intermediate Statistics and Data Analysis Courses\nIntroductory and Advanced Data Visualization in R\nData Literacy\nSpatial Data Analysis\nProbability Theory"
+  },
+  {
+    "objectID": "teaching.html#awards",
+    "href": "teaching.html#awards",
+    "title": "Teaching",
+    "section": "Awards",
+    "text": "Awards\n\nTeaching Excellence Award at Montana State University (2022) given to students who have made a high impact on undergraduates’ lives by helping them grow in knowledge, skill, and confidence\nOutstanding Graduate Teaching Assistant Award at Montana State University - College of Letters and Science (2021)\nOutstanding Graduate Teaching Assistant Award at Montana State University - Department of Mathematical Sciences (2017)"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Here is an overview of presentations given.\nMeyer, E. S. Teaching Quarto in Introductory Data Science. Topic-Contributed Paper Session at Joint Statistical Meetings (JSM) titled Teaching (with) Quarto, August, 2023. With Çetinkaya-Rundel, M., Bodwin, K., Rundel, C., and Tackett, M.\nMeyer, E. S., Green, J. L., & Arnold, E. G. New perspectives on understanding graduate student instructors’ longitudinal experiences with active learning. Refereed poster presentation at the United States Conference on Teaching Statistics (virtual), July, 2021.\nMeyer, E. S., Green, J. L., & Arnold, E. G. A longitudinal study of GTAs’ experiences with active learning. Refereed poster presentation at the United States Conference on Teaching Statistics, State College, PA, May, 2019.\nArnold, E. L., ^Meyer, E. S., & Green, J. L. Investigating future secondary mathematics teachers’ development in statistics. Refereed virtual breakout session at United States Conference on Teaching Statistics, State College, PA, May, 2019.\nMeyer, E. S., & Green, J. L. Statistics behind the skill: Cluster analysis and data visualization on disc golf data. Refereed presentation at The Cascadia Symposium on Statistics in Sports, Vancouver, BC, August, 2018.\nMeyer, E. S., & Green, J. L. Statistics behind the skill: Cluster analysis and data visualization on disc golf data. Contributed poster presentation at the Joint Statistical Meetings, Vancouver, BC, July, 2018.\nMeyer, E. S., Green, J. L., & Arnold, E. G. Graduate teaching assistants’ evolving conceptualizations of active learning. Refereed poster presentation at the Electronic Conference on Teaching Statistics, May, 2018. https://www.causeweb.org/cause/ecots/ecots18/posters/2-04\nMeyer, E. S., Arnold, E. G., & Green, J. L. Graduate teaching assistants’ evolving conceptualizations of active learning. Refereed poster presentation at the Conference on Research in Undergraduate Mathematics Education, San Diego, CA, February, 2018."
+    "text": "Below is a list of projects I’m currently involved with. For further descriptions or potential collaboration inquires, please contact me at elijah.meyer@duke.edu. You can also find a list of my completed projects and work experience on my CV.\n\nExplore with Shiny: Creating a Statistics Inquiry-Based Learning Tool\n       with Alina Yin (Undergraduate student)\nCreating a Data Science Specialization in Coursera\n       with Dr. Mine Çetinkaya-Rundel\nIntroductory Data Science: A Blueprint to Navigate Curricular, Pedagogical, and Computational Challenges\n       with Dr. Mine Çetinkaya-Rundel\nMotivation Matters: Developing an Instrument to Measure Newer Instructors’ Situational Motivation to Use Active Learning in the Classroom when Teaching Statistics\n       with Dr. Jennifer Green\nData Driven Disc Golf: Dynamic Interactive Application to help Players Spatially Visualize a Disc Golf Course\n       with Dr. Christian Stratton"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Carnegie, N., Hancock, S., Meyer, E. S., Schmidt, J., & Yager, M. (2021). Montana State Introductory Statistics with R. Montana State University. Adapted from OpenIntro :: Introduction to Modern Statistics by Çetinkaya-Rundel, M. & Hardin, J.\nHammack, R., Gannon, P., Foreman, C., & Meyer, E. S. (2021). Impacts of professional development focused on teaching engineering applications of mathematics and science. School Science and Mathematics. 2020; 120: 413-424.\nMeyer, E. S., Greenwood, M., & Tran, T. (2016) Statistical methods for detecting groups of patterns in daily step count activity profiles. Skyline: The Big Sky Undergraduate Journal, 4 (1).\nMeyer, E. S., Greenwood, M., & Tran, T. (2016). Daily Step Count Profile Data for 61 Days dataset. Montana State University ScholarWorks."
+  },
+  {
+    "objectID": "publications.html#published",
+    "href": "publications.html#published",
+    "title": "Publications",
+    "section": "",
+    "text": "Carnegie, N., Hancock, S., Meyer, E. S., Schmidt, J., & Yager, M. (2021). Montana State Introductory Statistics with R. Montana State University. Adapted from OpenIntro :: Introduction to Modern Statistics by Çetinkaya-Rundel, M. & Hardin, J.\nHammack, R., Gannon, P., Foreman, C., & Meyer, E. S. (2021). Impacts of professional development focused on teaching engineering applications of mathematics and science. School Science and Mathematics. 2020; 120: 413-424.\nMeyer, E. S., Greenwood, M., & Tran, T. (2016) Statistical methods for detecting groups of patterns in daily step count activity profiles. Skyline: The Big Sky Undergraduate Journal, 4 (1).\nMeyer, E. S., Greenwood, M., & Tran, T. (2016). Daily Step Count Profile Data for 61 Days dataset. Montana State University ScholarWorks."
+  },
+  {
+    "objectID": "publications.html#in-review",
+    "href": "publications.html#in-review",
+    "title": "Publications",
+    "section": "In review",
+    "text": "In review\n\nMeyer, E. S., Green, J., Arnold, L., & Wickstrom, M. New perspectives on understanding graduate student instructors’ longitudinal experiences with active learning. Submitted to International Journal of Teacher Education."
+  },
+  {
+    "objectID": "publications.html#in-preparation",
+    "href": "publications.html#in-preparation",
+    "title": "Publications",
+    "section": "In preparation",
+    "text": "In preparation\n\nRubin, N., Meyer, E.,, Tackett, M., & Çetinkaya-Rundel, M. Evaluating Student Perceptions of Assessment in Quantitative Studies. In preparation to submit to Statistics Education Research Journal."
+  },
+  {
+    "objectID": "courses/stat-217.html",
+    "href": "courses/stat-217.html",
+    "title": "Stat 217 - Intermediate Statistics",
+    "section": "",
+    "text": "7 sections, in-person + online since Spring 2013 - Fall 2019\n\nIntroductory statistics courses prepare students to think statistically but cover relatively few statistical methods. Building on the basic statistical thinking emphasized in an introductory course, a second course in statistics at the undergraduate level can explore a large number of statistical methods. This text covers more advanced graphical summaries, One-Way ANOVA with pair-wise comparisons, Two-Way ANOVA, Chi-square testing, and simple and multiple linear regression models. Models with interactions are discussed in the Two-Way ANOVA and multiple linear regression setting with categorical explanatory variables. Randomization-based inferences are used to introduce new parametric distributions and to enhance understanding of what evidence against the null hypothesis \"looks like\". Throughout, the use of the statistical software R via RStudio is emphasized with all useful code and data sets provided within the text."
+  },
+  {
+    "objectID": "courses/data-carpentry.html",
+    "href": "courses/data-carpentry.html",
+    "title": "Data visualization with ggplot2",
+    "section": "",
+    "text": "Spring 2020  Fall 2019\n\nData Carpentry's aim is to teach researchers basic concepts, skills, and tools for working with data so that they can get more done in less time, and with less pain. This is an introduction to R designed for participants with no programming experience. These lessons can be taught in a day (~ 6 hours). They start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting. The last lesson demonstrates how to work with databases directly from R."
   }
 ]

@@ -1,0 +1,11 @@
+[
+  {
+    "listing": "/teaching.html",
+    "items": [
+      "/courses/data-carpentry.html",
+      "/courses/sta-199.html",
+      "/courses/stat-216.html",
+      "/courses/stat-217.html"
+    ]
+  }
+]
