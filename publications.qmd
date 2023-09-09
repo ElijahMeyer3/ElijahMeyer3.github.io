@@ -1,0 +1,21 @@
+---
+title: "Publications"
+---
+
+## Published
+
+-   Carnegie, N., Hancock, S., **Meyer, E. S.**, Schmidt, J., & Yager, M. (2021). [Montana State Introductory Statistics with R. Montana State University.](https://mtstateintrostats.github.io/IntroStatTextbook/) Adapted from [OpenIntro :: Introduction to Modern Statistics](https://openintro-ims.netlify.app/) by Çetinkaya-Rundel, M. & Hardin, J.
+
+-   Hammack, R., Gannon, P., Foreman, C., & **Meyer, E. S.** (2021). [Impacts of professional development focused on teaching engineering applications of mathematics and science.](https://onlinelibrary.wiley.com/doi/10.1111/ssm.12430) School Science and Mathematics. 2020; 120: 413-424.
+
+-   **Meyer, E. S.**, Greenwood, M., & Tran, T. (2016) [Statistical methods for detecting groups of patterns in daily step count activity profiles.](https://scholarworks.montana.edu/xmlui/handle/1/14924) Skyline: The Big Sky Undergraduate Journal, 4 (1).
+
+-   **Meyer, E. S.**, Greenwood, M., & Tran, T. (2016). Daily Step Count Profile Data for 61 Days [dataset](https://scholarworks.montana.edu/xmlui/handle/1/9897). Montana State University ScholarWorks.
+
+## In review
+
+-   **Meyer, E. S.**, Green, J., Arnold, L., & Wickstrom, M. New perspectives on understanding graduate student instructors' longitudinal experiences with active learning. Submitted to International Journal of Teacher Education.
+
+## In preparation
+
+-   Rubin, N., **Meyer, E.,**, Tackett, M., & Çetinkaya-Rundel, M. Evaluating Student Perceptions of Assessment in Quantitative Studies. In preparation to submit to Statistics Education Research Journal.
