@@ -8,7 +8,7 @@ website:
 
   page-footer:
     left: "&copy; Copyright 2023, Elijah Meyer"
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    right: "This page is built with 🤍 and [Quarto](https://quarto.org/)."
     background: "#2af0f7" # Teal
   navbar:
     background: "#2af0f7" # Teal
