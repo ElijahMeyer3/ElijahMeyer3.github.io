@@ -20,7 +20,7 @@ about:
       href: https://sta199-f23-1.github.io/
 ---
 
-I am a postdoc in the [Department of Statistical Science](https://stat.duke.edu/) at Duke University, working with [Dr. Mine Çetinkaya-Rundel](https://mine-cr.com) on data science education, with responsibilities as a lead instructor and researcher. I have training and over nine years of experience in both developing and instructing in-person and online courses in statistics and data science that range from 15 to 170 students.
+I am a postdoc in the [Department of Statistical Science](https://stat.duke.edu/) at Duke University, working with [Dr. Mine Çetinkaya-Rundel](https://mine-cr.com) on data science education, with responsibilities as a lead instructor and researcher. I have training and over nine years of experience in both developing and instructing in-person and online courses in statistics and data science that range from 15 to 300 students.
 
 My current research focuses on how to better the teaching and learning experiences for those involved. Additionally, I'm interested in sports analytics and creating dynamic tools to support data driven decision making as well as in developing statistics and data science curricula for both introductory and more advanced courses.
 
