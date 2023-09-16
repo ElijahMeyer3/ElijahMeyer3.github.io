@@ -32,12 +32,12 @@ Duke University \| Durham, NC
 
 <br>
 
-![](images/MontanaStateUniversity_Icon.png){style="float: left; padding: 10px;" width="75"}Ph.D. in Statistics with a focus in Education, August 2022
+![](images/montana-state-bobcats.png){style="float: left; padding: 10px;" width="75"}Ph.D. in Statistics with a focus in Education, August 2022
 
 Montana State University \| Bozeman, MT
 
 <br>
 
-![](images/MontanaStateUniversity_Icon.png){style="float: left; padding: 10px;" width="75"}Master's in Statistics, May 2018
+![](images/montana-state-bobcats.png){style="float: left; padding: 10px;" width="75"}Master's in Statistics, May 2018
 
 Montana State University \| Bozeman, MT
