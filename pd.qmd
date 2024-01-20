@@ -4,6 +4,22 @@ title: "Professional Development"
 
 Below is an overview of the professional development (PD) programs I have helped develop, organize, and/or run.
 
+## TA Training 
+
+Duke Statistical Science, Spring 2024
+
+Created, developed and facilitated Duke's first workshops to help prepare teaching assistants in the following areas of teaching: using active learning, Quarto, grading & giving student feedback; and GitHub. Workshops were 1.5 hours and conducted via Zoom. 
+
+Workshop 1 - Active Learning: [Slides](https://elijahmeyer3.github.io/199-training/workshop1/teaching/teaching_slides.html#/title-slide)
+
+Workshop 1 - Quarto: [Slides](https://elijahmeyer3.github.io/199-training/workshop1/quarto/quarto-slides.html#/title-slide); [Activity](https://github.com/ElijahMeyer3/quarto-training-exercises)
+
+Workshop 2 - Grading & Student Feedback: [Slides](https://elijahmeyer3.github.io/199-training/workshop2/workshop2-slides.html#/title-slide); [Activity](https://github.com/ElijahMeyer3/grading-training-exercise)
+
+Workshop 2 - GitHub: [Slides](https://elijahmeyer3.github.io/199-training/workshop2/workshop2-slides.html#/github)
+
+
+
 ## Head TA Training
 
 Duke Statistical Science, Spring 2023

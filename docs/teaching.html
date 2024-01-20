@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.241">
+<meta name="generator" content="quarto-1.4.530">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -46,12 +46,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
   "keyboard-shortcut": [
     "f",
     "/",
     "s"
   ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -60,6 +61,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -98,13 +100,40 @@ ul.task-list li input[type="checkbox"] {
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
@@ -118,32 +147,32 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html" rel="" target="">
- <span class="menu-text">Projects</span></a>
+    <a class="nav-link" href="./projects.html"> 
+<span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./teaching.html" rel="" target="" aria-current="page">
- <span class="menu-text">Teaching</span></a>
+    <a class="nav-link active" href="./teaching.html" aria-current="page"> 
+<span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./pd.html" rel="" target="">
- <span class="menu-text">Professional Development</span></a>
+    <a class="nav-link" href="./pd.html"> 
+<span class="menu-text">Professional Development</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html" rel="" target="">
- <span class="menu-text">Publications</span></a>
+    <a class="nav-link" href="./publications.html"> 
+<span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./talks.html" rel="" target="">
- <span class="menu-text">Talks</span></a>
+    <a class="nav-link" href="./talks.html"> 
+<span class="menu-text">Talks</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./CV.pdf" rel="" target="">
- <span class="menu-text">CV</span></a>
+    <a class="nav-link" href="./CV.pdf"> 
+<span class="menu-text">CV</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -189,6 +218,7 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+
 <section id="courses" class="level2">
 <h2 class="anchored" data-anchor-id="courses">Courses</h2>
 <div id="listing-courses" class="quarto-listing quarto-listing-container-table">
@@ -209,7 +239,7 @@ Website
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-listing-file-modified-sort="1695841901658" data-listing-reading-time-sort="1" data-listing-image-sort="/courses/images/data-carpentry.png" data-listing-title-sort="Data visualization with ggplot2" data-listing-description-sort="Spring 2020 <br> Fall 2019">
+<tr data-index="0" data-listing-file-modified-sort="1695841901658" data-listing-reading-time-sort="1" data-listing-word-count-sort="122" data-listing-image-sort="/courses/images/data-carpentry.png" data-listing-title-sort="Data visualization with ggplot2" data-listing-description-sort="Spring 2020 <br> Fall 2019">
 <td>
 <a href="./courses/data-carpentry.html" class="image listing-image"><img src="./courses/images/data-carpentry.png" style="height: 75px;" alt="Data Carpentry logo"></a>
 </td>
@@ -223,7 +253,7 @@ Website
 <a href="./courses/data-carpentry.html" class="description listing-description">Spring 2020 <br> Fall 2019</a>
 </td>
 </tr>
-<tr data-index="1" data-listing-file-modified-sort="1694270900134" data-listing-reading-time-sort="1" data-listing-image-sort="/courses/images/sta-199.png" data-listing-title-sort="STA 199 - Introduction to Data Science and Statistical Thinking" data-listing-description-sort="Fall 2023: Section 1 and Section 2 <br> Summer 2023 <br> Spring 2023 <br> Fall 2022">
+<tr data-index="1" data-listing-file-modified-sort="1694270900134" data-listing-reading-time-sort="1" data-listing-word-count-sort="102" data-listing-image-sort="/courses/images/sta-199.png" data-listing-title-sort="STA 199 - Introduction to Data Science and Statistical Thinking" data-listing-description-sort="Fall 2023: Section 1 and Section 2 <br> Summer 2023 <br> Spring 2023 <br> Fall 2022">
 <td>
 <a href="./courses/sta-199.html" class="image listing-image"><img src="./courses/images/sta-199.png" style="height: 75px;" alt="Hex logo for STA 199"></a>
 </td>
@@ -237,7 +267,7 @@ Website
 <a href="./courses/sta-199.html" class="description listing-description">Fall 2023: Section 1 and Section 2 <br> Summer 2023 <br> Spring 2023 <br> Fall 2022</a>
 </td>
 </tr>
-<tr data-index="2" data-listing-file-modified-sort="1694270900134" data-listing-reading-time-sort="1" data-listing-image-sort="/courses/images/montana-state-bobcats.png" data-listing-title-sort="Stat 216 - Introduction to Statistics" data-listing-description-sort="11 sections, in-person + online since Spring 2013 - Spring 2022">
+<tr data-index="2" data-listing-file-modified-sort="1694270900134" data-listing-reading-time-sort="1" data-listing-word-count-sort="95" data-listing-image-sort="/courses/images/montana-state-bobcats.png" data-listing-title-sort="Stat 216 - Introduction to Statistics" data-listing-description-sort="11 sections, in-person + online since Spring 2013 - Spring 2022">
 <td>
 <a href="./courses/stat-216.html" class="image listing-image"><img src="./courses/images/montana-state-bobcats.png" style="height: 75px;" alt="Montana State Bobcats logo"></a>
 </td>
@@ -251,7 +281,7 @@ Website
 <a href="./courses/stat-216.html" class="description listing-description">11 sections, in-person + online since Spring 2013 - Spring 2022</a>
 </td>
 </tr>
-<tr data-index="3" data-listing-file-modified-sort="1694270900134" data-listing-reading-time-sort="1" data-listing-image-sort="/courses/images/montana-state-bobcats.png" data-listing-title-sort="Stat 217 - Intermediate Statistics" data-listing-description-sort="7 sections, in-person + online since Spring 2013 - Fall 2019">
+<tr data-index="3" data-listing-file-modified-sort="1694270900134" data-listing-reading-time-sort="1" data-listing-word-count-sort="139" data-listing-image-sort="/courses/images/montana-state-bobcats.png" data-listing-title-sort="Stat 217 - Intermediate Statistics" data-listing-description-sort="7 sections, in-person + online since Spring 2013 - Fall 2019">
 <td>
 <a href="./courses/stat-217.html" class="image listing-image"><img src="./courses/images/montana-state-bobcats.png" style="height: 75px;" alt="Montana State Bobcats logo"></a>
 </td>
@@ -274,9 +304,9 @@ No matching items
 </section>
 <section id="philosophy" class="level2">
 <h2 class="anchored" data-anchor-id="philosophy">Philosophy</h2>
-<div class="quarto-figure quarto-figure-right" style="float: right; padding-left: 20px;">
+<div class="quarto-figure quarto-figure-right">
 <figure class="figure">
-<p><img src="images/datafest.png" class="img-fluid figure-img" alt="Photo with two students from Duke DataFest 2023" width="250"></p>
+<p><img src="images/datafest.png" class="img-fluid quarto-figure quarto-figure-right figure-img" style="float: right; padding-left: 20px;" alt="Photo with two students from Duke DataFest 2023" width="250"></p>
 </figure>
 </div>
 <p>Prior to my time at Duke, I’ve taught multiple sections of Introductory and Intermediate Statistics at Montana State, developed their Intermediate Statistics online course, and helped integrate R into the Introductory Statistics curricula. I prioritize community, communication, and respect in my classroom. I want to provide a space where we can freely talk about the material, embrace mistakes, and learn together throughout the semester.</p>
@@ -435,15 +465,28 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       }
     }
     stripColumnClz(note)
-    if (id.startsWith('sec-')) {
+    if (id === null || id.startsWith('sec-')) {
       // Special case sections, only their first couple elements
       const container = document.createElement("div");
       if (note.children && note.children.length > 2) {
-        for (let i = 0; i < 2; i++) {
-          container.appendChild(note.children[i].cloneNode(true));
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
         }
         return container.innerHTML
       } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
         return note.innerHTML;
       }
     } else {
@@ -451,6 +494,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const anchorLink = note.querySelector('a.anchorjs-link');
       if (anchorLink) {
         anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
       }
       return note.innerHTML;
     }
@@ -494,6 +540,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             instance.show();
           });
         }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
       }
     }, function(instance) {
     });
@@ -565,6 +634,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
