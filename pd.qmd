@@ -4,9 +4,17 @@ title: "Professional Development"
 
 Below is an overview of the professional development (PD) programs I have helped develop, organize, and/or run.
 
-## TA Training 
+------------------------------------------------------------------------
 
-Duke Statistical Science, Spring 2024
+**Introduction to Undergraduate Research in Statistics Workshop -- Duke Statistical Science, Summer 2024**
+
+Interacted with all of the workshop students, the workshop staff and PI, departmental personnel, and guest speakers during scheduled sessions. Guided and mentored a team of five undergraduate students as they conducted a case-study research project during a 2-week period. Final projects included a research paper and 20-minute presentation, all in a reproducible format.
+
+Collaboration with [Dr. Joan Durso](https://scholars.duke.edu/person/joan.combs.durso) 
+
+------------------------------------------------------------------------
+
+**TA Training -- Duke Statistical Science, Spring 2024**
 
 Created, developed and facilitated Duke's first workshops to help prepare teaching assistants in the following areas of teaching: using active learning, Quarto, grading & giving student feedback; and GitHub. Workshops were 1.5 hours and conducted via Zoom. 
 
@@ -18,20 +26,17 @@ Workshop 2 - Grading & Student Feedback: [Slides](https://elijahmeyer3.github.io
 
 Workshop 2 - GitHub: [Slides](https://elijahmeyer3.github.io/199-training/workshop2/workshop2-slides.html#/github)
 
+------------------------------------------------------------------------
 
-
-## Head TA Training
-
-Duke Statistical Science, Spring 2023
+**Head TA Training -- Duke Statistical Science, Spring 2023**
 
 Redesigned and updated training preparation materials for TAs in leadership positions in the statistical sciences department at Duke. Co-lead training meeting to prepare TAs on their administrative and teaching responsibilities.
 
 Collaboration with [Dr. Joan Durso](https://scholars.duke.edu/person/joan.combs.durso) and [Dr. Mine Çetinkaya-Rundel](https://mine-cr.com/).
 
+------------------------------------------------------------------------
 
-## Excellence in Teaching Symposium
-
-Montana State University, Fall 2017 and Spring 2018
+**Excellence in Teaching Symposium -- Montana State University, Fall 2017 and Spring 2018**
 
 Redesigned and led year-long teaching program for new graduate students. Organized and executed weekly hour-long teaching symposiums, such as Responding to Student Contributions in the Classroom. Mentored new graduate students on how to effectively communicate mathematical and statistical concepts to diverse learners.
 
