@@ -4,6 +4,9 @@ title: "Projects"
 
 Below is a list of projects I'm currently involved with. For further descriptions or potential collaboration inquires, please contact me at [elijah.meyer\@duke.edu](mailto:elijah.meyer@duke.edu). You can also find a list of my completed projects and work experience on my [CV](https://elijahmeyer3.github.io/CV.pdf).
 
+-   Data Science Assessment\
+           *with [Dr. Mine Çetinkaya-Rundel](https://mine-cr.com/), [Dr. Andrew Zieffler](https://edpsych.umn.edu/andrew-zieffler), [Dr. Mine Dogucu](https://www.minedogucu.com/), [Dr. Matthew Beckman](https://science.psu.edu/stat/people/mdb268), [Dr. Maria Tackett](https://maria-tackett.netlify.app/), [Dr. Chelsea Legacy](https://edpsych.umn.edu/chelsey-legacy)
+
 -   Explore with Shiny: Creating a Statistics Inquiry-Based Learning Tool\
            *with Alina Yin (Undergraduate student)*
 

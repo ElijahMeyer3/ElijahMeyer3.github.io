@@ -26,7 +26,14 @@ My current research focuses on how to better the teaching and learning experienc
 
 ------------------------------------------------------------------------
 
-![](images/Duke-University-Logo.png){style="float: left; padding: 10px;" fig-align="left" width="75"} Postdoc in Statistical Science, August 2022 - present
+![](images/nc-state.png){style="float: left; padding: 10px;" fig-align="left" width="70"} Teaching Assistant Professor, August 2024 - present
+
+North Carolina State University \| Raleigh, NC
+
+<br>
+
+
+![](images/Duke-University-Logo.png){style="float: left; padding: 10px;" fig-align="left" width="75"} Postdoc in Statistical Science, August 2022 - August 2024
 
 Duke University \| Durham, NC
 
