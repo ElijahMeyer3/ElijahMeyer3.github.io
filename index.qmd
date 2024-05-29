@@ -17,7 +17,7 @@ about:
       href: https://github.com/ElijahMeyer3
     - icon: bar-chart-line-fill
       text: Currently Teaching
-      href: https://sta199-f23-1.github.io/
+      href: https://st511-01.github.io/st511-f24-01/
 ---
 
 I am a postdoc in the [Department of Statistical Science](https://stat.duke.edu/) at Duke University, working with [Dr. Mine Çetinkaya-Rundel](https://mine-cr.com) on data science education, with responsibilities as a lead instructor and researcher. I have training and over nine years of experience in both developing and instructing in-person and online courses in statistics and data science that range from 15 to 300 students.
