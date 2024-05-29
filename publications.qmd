@@ -4,6 +4,8 @@ title: "Publications"
 
 ## Published
 
+-   **Meyer, E. S.**, Green, J., Arnold, L., & Wickstrom, M. (2024). [Understanding How and When Graduate Student Instructors Break Through Challenges with Active Learning](https://rdcu.be/dIW4E). International Journal of Research in Undergraduate.
+
 -   Carnegie, N., Hancock, S., **Meyer, E. S.**, Schmidt, J., & Yager, M. (2021). [Montana State Introductory Statistics with R. Montana State University.](https://mtstateintrostats.github.io/IntroStatTextbook/) Adapted from [OpenIntro :: Introduction to Modern Statistics](https://openintro-ims.netlify.app/) by Çetinkaya-Rundel, M. & Hardin, J.
 
 -   Hammack, R., Gannon, P., Foreman, C., & **Meyer, E. S.** (2020). [Impacts of professional development focused on teaching engineering applications of mathematics and science.](https://onlinelibrary.wiley.com/doi/10.1111/ssm.12430) School Science and Mathematics. 2020; 120: 413-424.
@@ -14,7 +16,7 @@ title: "Publications"
 
 ## In review
 
--   **Meyer, E. S.**, Green, J., Arnold, L., & Wickstrom, M. New perspectives on understanding graduate student instructors' longitudinal experiences with active learning. Submitted to International Journal of Research in Undergraduate Mathematics Education.
+-   Rubin, N., Tackett, M., Çetinkaya-Rundel, & **Meyer, E.** Evaluating Student Perceptions of Assessment in Quantitative Studies. Submitted to the International Journal of STEM Education
 
 ## In preparation
 
@@ -22,4 +24,4 @@ title: "Publications"
 Curriculum and Pedagogy. To be submitted to the Journal of Statistics and Data Science
 Education.
 
--   Rubin, N., **Meyer, E.,**, Tackett, M., & Çetinkaya-Rundel, M. Evaluating Student Perceptions of Assessment in Quantitative Studies. In preparation to submit to Statistics Education Research Journal.
+
