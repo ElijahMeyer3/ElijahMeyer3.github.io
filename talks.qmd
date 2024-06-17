@@ -2,6 +2,12 @@
 title: "Talks"
 ---
 
+
+-   **Meyer, E. S.** Using Docker Containers in Teaching Statistics and Data Science: How NCShare Can Help. Part of breakout session at [Moving NC Forward in Teaching Statistics and Data Science 2024 Regional Conference](https://fi.ncsu.edu/moving-nc-forward-in-teaching-statistics-and-data-science-2024-regional-conference/) with Durso, J., McCahill, M. eCots. Raleigh, NC. June, 2024.
+
+[Slides](prez/eCots-24/slides.pdf); [Activity](prez/eCots-24/day1.pdf)
+
+
 -   **Meyer, E. S.** [Teaching Quarto in Introductory Data Science](https://mine-cetinkaya-rundel.github.io/teach-with-quarto/talks/2-intro-ds/). Part of a topic-contributed paper session titled [*Teaching (with) Quarto*](https://mine-cetinkaya-rundel.github.io/teach-with-quarto/) with Çetinkaya-Rundel, M., Bodwin, K., Rundel, C., and Tackett, M. Joint Statistical Meetings. Toronto, CA. August, 2023.
 
 -   **Meyer, E. S.**, Green, J. L., & Arnold, E. G. New perspectives on understanding graduate student instructors' longitudinal experiences with active learning. Refereed poster presentation at the United States Conference on Teaching Statistics (virtual). July, 2021.

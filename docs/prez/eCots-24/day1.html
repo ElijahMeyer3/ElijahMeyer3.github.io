@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="">
+<meta name="dcterms.date" content="2024-06-13">
 
-<title>Elijah Meyer - Talks</title>
+<title>Elijah Meyer - Penguins: Day 1</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,24 +22,58 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -76,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Elijah Meyer</span>
     </a>
   </div>
@@ -87,31 +123,31 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> 
+    <a class="nav-link" href="../../projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link" href="../../teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./pd.html"> 
+    <a class="nav-link" href="../../pd.html"> 
 <span class="menu-text">Professional Development</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link" href="../../publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./talks.html" aria-current="page"> 
+    <a class="nav-link" href="../../talks.html"> 
 <span class="menu-text">Talks</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./CV.pdf"> 
+    <a class="nav-link" href="../../CV.pdf"> 
 <span class="menu-text">CV</span></a>
   </li>  
 </ul>
@@ -125,22 +161,39 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#packages" id="toc-packages" class="nav-link active" data-scroll-target="#packages">Packages</a>
+  <ul class="collapse">
+  <li><a href="#penguin-exploration" id="toc-penguin-exploration" class="nav-link" data-scroll-target="#penguin-exploration">Penguin Exploration</a></li>
+  <li><a href="#looking-forward" id="toc-looking-forward" class="nav-link" data-scroll-target="#looking-forward">Looking forward</a></li>
+  <li><a href="#example-lessons" id="toc-example-lessons" class="nav-link" data-scroll-target="#example-lessons">Example Lessons</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Talks</h1>
+<h1 class="title">Penguins: Day 1</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-left">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">June 13, 2024</p>
+    </div>
+  </div>
   
     
   </div>
@@ -150,22 +203,85 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<ul>
-<li><strong>Meyer, E. S.</strong> Using Docker Containers in Teaching Statistics and Data Science: How NCShare Can Help. Part of breakout session at <a href="https://fi.ncsu.edu/moving-nc-forward-in-teaching-statistics-and-data-science-2024-regional-conference/">Moving NC Forward in Teaching Statistics and Data Science 2024 Regional Conference</a> with Durso, J., McCahill, M. eCots. Raleigh, NC. June, 2024.</li>
-</ul>
-<p><a href="prez/eCots-24/slides.pdf">Slides</a>; <a href="prez/eCots-24/day1.pdf">Activity</a></p>
-<ul>
-<li><p><strong>Meyer, E. S.</strong> <a href="https://mine-cetinkaya-rundel.github.io/teach-with-quarto/talks/2-intro-ds/">Teaching Quarto in Introductory Data Science</a>. Part of a topic-contributed paper session titled <a href="https://mine-cetinkaya-rundel.github.io/teach-with-quarto/"><em>Teaching (with) Quarto</em></a> with Çetinkaya-Rundel, M., Bodwin, K., Rundel, C., and Tackett, M. Joint Statistical Meetings. Toronto, CA. August, 2023.</p></li>
-<li><p><strong>Meyer, E. S.</strong>, Green, J. L., &amp; Arnold, E. G. New perspectives on understanding graduate student instructors’ longitudinal experiences with active learning. Refereed poster presentation at the United States Conference on Teaching Statistics (virtual). July, 2021.</p></li>
-<li><p><strong>Meyer, E. S.</strong>, Green, J. L., &amp; Arnold, E. G. A longitudinal study of GTAs’ experiences with active learning. Refereed poster presentation at the United States Conference on Teaching Statistics, State College, PA. May, 2019.</p></li>
-<li><p>Arnold, E. L., <strong>Meyer, E. S.</strong> S., &amp; Green, J. L. Investigating future secondary mathematics teachers’ development in statistics. Refereed virtual breakout session at United States Conference on Teaching Statistics, State College, PA. May, 2019.</p></li>
-<li><p><strong>Meyer, E. S.</strong>, &amp; Green, J. L. Statistics behind the skill: Cluster analysis and data visualization on disc golf data. Refereed presentation at The Cascadia Symposium on Statistics in Sports, Vancouver, BC. August, 2018.</p></li>
-<li><p><strong>Meyer, E. S.</strong>, &amp; Green, J. L. Statistics behind the skill: Cluster analysis and data visualization on disc golf data. Contributed poster presentation at the Joint Statistical Meetings, Vancouver, BC. July, 2018.</p></li>
-<li><p><strong>Meyer, E. S.</strong>, Green, J. L., &amp; Arnold, E. G. <a href="https://www.causeweb.org/cause/ecots/ecots18/posters/2-04">Graduate teaching assistants’ evolving conceptualizations of active learning</a>. Refereed poster presentation at the Electronic Conference on Teaching Statistics, May, 2018.</p></li>
-<li><p><strong>Meyer, E. S.,</strong> Arnold, E. G., &amp; Green, J. L. Graduate teaching assistants’ evolving conceptualizations of active learning. Refereed poster presentation at the Conference on Research in Undergraduate Mathematics Education, San Diego, CA, February, 2018.</p></li>
-</ul>
+<section id="packages" class="level1">
+<h1>Packages</h1>
+<section id="penguin-exploration" class="level2">
+<h2 class="anchored" data-anchor-id="penguin-exploration">Penguin Exploration</h2>
+<p>Data were collected and made available by Dr.&nbsp;Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network. We are going to explore and visualize these data on day 1!</p>
+<p>Hints: In RStudio, you will write code in chunks between the ``` marks. To run code, you will click the green arrow in the far right of the code chunk. Lines 29 - 31 are a code chunk. Variable names may not include blank spaces.</p>
+<ol type="1">
+<li>Take a glimpse of the data set <code>penguins</code>.</li>
+</ol>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">glimpse</span>() <span class="co"># insert data set name inside the ().</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>How many rows does this data set have? How many columns? What is the variable name in the output that will give you the penguin’s flipper length in millimeters?</p>
+<p><strong>Add responses</strong></p>
+<ol start="2" type="1">
+<li>Let’s calculate a summary statistic! In the code chunk below, fill in the … to calculate the mean body mass (g) for the Chinstrap species of penguin.</li>
+</ol>
+<p>Hint: Look at your question 1 output to see your variable names!</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>penguins <span class="sc">|&gt;</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(species <span class="sc">==</span> <span class="st">"..."</span>) <span class="sc">|&gt;</span> <span class="co"># insert the name of the penguin species inside the " "</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">summarize</span>(<span class="at">mean_bm =</span> <span class="fu">mean</span>(...)) <span class="co"># insert the variable name</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<ol start="3" type="1">
+<li>Now, create a scatterplot of flipper length on the x-axis, body mass on the y-axis, using species to color the results, by filling in the … below with correctly formatted variable names.</li>
+</ol>
+<p>Hint: Look at your question 1 output to see your variable names!</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>penguins <span class="sc">|&gt;</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>    <span class="fu">aes</span>(<span class="at">x =</span> flipper_length_mm , <span class="at">y =</span> body_mass_g , <span class="at">color =</span> species) <span class="co"># insert your variable names here</span></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>  ) <span class="sc">+</span> </span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_point</span>() <span class="sc">+</span></span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">x =</span> <span class="st">"flipper length (mm)"</span>, </span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>       <span class="at">y =</span> <span class="st">"body mass (g)"</span>) </span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>What are some characteristics you notice?</p>
+<p><strong>Add response</strong></p>
+</section>
+<section id="looking-forward" class="level2">
+<h2 class="anchored" data-anchor-id="looking-forward">Looking forward</h2>
+<p>Let’s compare body mass and flipper length across a subset of penguins! What can we take away from this graph? The following code chunk will produce charts to help you answer this question.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>penguins <span class="sc">|&gt;</span></span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(island <span class="sc">%in%</span> <span class="fu">c</span>(<span class="st">"Torgersen"</span>, <span class="st">"Biscoe"</span>),</span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>         <span class="sc">!</span><span class="fu">is.na</span>(sex)) <span class="sc">|&gt;</span></span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(</span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>    <span class="fu">aes</span>(<span class="at">x =</span> body_mass_g, <span class="at">y =</span> flipper_length_mm, <span class="at">color =</span> species)</span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>  ) <span class="sc">+</span> </span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_point</span>(<span class="at">alpha =</span> <span class="fl">0.4</span>) <span class="sc">+</span> </span>
+<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_smooth</span>(<span class="at">method =</span> <span class="st">"loess"</span>, <span class="at">se =</span> F) <span class="sc">+</span></span>
+<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">facet_wrap</span>(<span class="sc">~</span>sex) <span class="sc">+</span>  </span>
+<span id="cb4-10"><a href="#cb4-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(</span>
+<span id="cb4-11"><a href="#cb4-11" aria-hidden="true" tabindex="-1"></a>    <span class="at">title =</span> <span class="st">"Penguins body mass vs flipper length"</span>,</span>
+<span id="cb4-12"><a href="#cb4-12" aria-hidden="true" tabindex="-1"></a>    <span class="at">subtitle =</span> <span class="st">"on Torgersen and Biscoe island"</span>,</span>
+<span id="cb4-13"><a href="#cb4-13" aria-hidden="true" tabindex="-1"></a>    <span class="at">y =</span> <span class="st">"flipper length (mm)"</span>,</span>
+<span id="cb4-14"><a href="#cb4-14" aria-hidden="true" tabindex="-1"></a>    <span class="at">x =</span> <span class="st">"body mass (g)"</span>,</span>
+<span id="cb4-15"><a href="#cb4-15" aria-hidden="true" tabindex="-1"></a>    <span class="at">color =</span> <span class="st">"species"</span>,</span>
+<span id="cb4-16"><a href="#cb4-16" aria-hidden="true" tabindex="-1"></a>    <span class="at">caption =</span> <span class="st">"data and more found here: https://allisonhorst.github.io/palmerpenguins/"</span></span>
+<span id="cb4-17"><a href="#cb4-17" aria-hidden="true" tabindex="-1"></a>  ) <span class="sc">+</span> </span>
+<span id="cb4-18"><a href="#cb4-18" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">axis.text.x=</span><span class="fu">element_text</span>(<span class="at">angle=</span><span class="dv">45</span>, <span class="at">hjust=</span><span class="dv">1</span>)) <span class="sc">+</span> </span>
+<span id="cb4-19"><a href="#cb4-19" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_bw</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>We will learn and practice with each of the following functions and arguments above as the semester goes on!</p>
+<p>Now click “Knit” above to produce a nice HTML document of your results.</p>
+</section>
+<section id="example-lessons" class="level2">
+<h2 class="anchored" data-anchor-id="example-lessons">Example Lessons</h2>
+<p>If you would like to see more instances of the container used in class, please see the following class websites and lab-0 instructions used to help students work with containers!</p>
+<p>This is Prof.&nbsp;Mine Çetinkaya-Rundel’s Intro to Data Science course:</p>
+<p>https://sta199-s24.github.io/</p>
+<p>This is day 1 lab from that course:</p>
+<p>https://sta199-s24.github.io/labs/lab-0.html</p>
+<p>This is Dr.&nbsp;Elijah Meyer’s Intro to Data Science course:</p>
+<p>https://sta199-f23-1.github.io/</p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
