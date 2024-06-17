@@ -2,7 +2,7 @@
 title: "Penguins: Day 1"
 author: ""
 date: "2024-06-13"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
@@ -26,7 +26,7 @@ Hints: In RStudio, you will write code in chunks between the ``` marks. To run c
 
 1. Take a glimpse of the data set `penguins`. 
 
-```{r}
+```{r, eval=FALSE}
 glimpse() # insert data set name inside the ().
 ```
 
@@ -38,7 +38,7 @@ How many rows does this data set have? How many columns? What is the variable na
 
 Hint: Look at your question 1 output to see your variable names!
 
-```{r}
+```{r, eval=FALSE}
 penguins |>
   filter(species == "...") |> # insert the name of the penguin species inside the " "
   summarize(mean_bm = mean(...)) # insert the variable name
@@ -49,7 +49,7 @@ penguins |>
 
 Hint: Look at your question 1 output to see your variable names!
 
-```{r}
+```{r, eval=FALSE}
 penguins |>
   ggplot(
     aes(x = flipper_length_mm , y = body_mass_g , color = species) # insert your variable names here
@@ -67,7 +67,7 @@ What are some characteristics you notice?
 
 Let's compare body mass and flipper length across a subset of penguins! What can we take away from this graph? The following code chunk will produce charts to help you answer this question.  
 
-```{r}
+```{r, eval=FALSE}
 penguins |>
   filter(island %in% c("Torgersen", "Biscoe"),
          !is.na(sex)) |>
