@@ -21,5 +21,6 @@ Meyer, E., & Çetinkaya-Rundel, M. Introductory Data Science: A Blueprint to Des
 
 # Program Ideas 
 
-flunch - https://undergrad.duke.edu/intellectual-community/student-faculty-engagement-office/flunch/\
+flunch - https://undergrad.duke.edu/intellectual-community/student-faculty-engagement-office/flunch/
+
 ST-313: https://github.com/vizdata-s24/admin\
