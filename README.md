@@ -1,6 +1,6 @@
 # NC State Contributions
 
-Re-designed 511 to incorporate R + Quarto (Fall 2024)//
+Re-designed 511 to incorporate R + Quarto (Fall 2024)\\
 Serve of undergraduate curricula committee (Fall 2024 - current)
 Serve on student committee (Fall 2024 - )
 Created and instructed first Introduction to Data Science Foundations with R (Using R, RStudio, Quarto, GitHub) (Spring 2025)
