@@ -1,0 +1,11 @@
+---
+title: ST295 - Introductions to the Foundations of Data Science with R
+subtitle: North Carolina State University
+image: images/st-295.png
+image-alt: NC State logo
+editor: visual
+---
+
+[Developed + taught 1 section, in-person during Spring 2025](https://st295.github.io/st295-sp25/)
+
+> In this course, we will discover patterns in data through the use of effective data visualization tools, exploratory data analysis, and modeling techniques. We will gain experience working with real-world messy data, and use data tidying and data wrangling techniques to make the data suitable for exploration. An emphasis will be placed on creating reproducible and shareable work. This course highlights the importance of and uses version control software for individual and collaborative work. The course will focus on the R statistical computing language. This course will be run through GitHub.

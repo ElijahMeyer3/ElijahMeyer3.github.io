@@ -1,0 +1,11 @@
+---
+title: ST511 - Statistical Methods For Researchers I
+subtitle: North Carolina State University
+image: images/nc-state-2.png
+image-alt: NC State logo
+editor: visual
+---
+
+[2 sections, in-person + during Fall 2024](https://st511-01.github.io/st511-f24-1/)
+
+> Graduate standing course that prepares students to build basic statistical thinking skills, and analyze data. This course provides a heavy emphasis on effective exploratory data visulaizations using R/Rstudio, and how to perform a variety of statistical concepts using R/RStudio in a reproducible format using Quarto. Concepts covered theoretical and simulation based inference for single mean, difference in means, single proportion, and difference in proportions. More advanced theoretical hypothesis testing using One-Way ANOVA with pair-wise comparisons, Two-Way ANOVA, and Chi-square testing are also covered. Exploratory regression techniques such as simple, multiple linear regression models, and logistic regression are covered. 

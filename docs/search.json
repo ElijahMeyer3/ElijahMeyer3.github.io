@@ -4,14 +4,14 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Course\n\n\nInstitution\n\n\nWebsite\n\n\n\n\n\n\n\n\n\nData visualization with ggplot2\n\n\nData Carpentry\n\n\n\n\n\n\n\n\n\n\nSTA 199 - Introduction to Data Science and Statistical Thinking\n\n\nDuke University\n\n\n\n\n\n\n\n\n\n\nStat 216 - Introduction to Statistics\n\n\nMontana State University\n\n\n\n\n\n\n\n\n\n\nStat 217 - Intermediate Statistics\n\n\nMontana State University\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Course\n\n\nInstitution\n\n\nWebsite\n\n\n\n\n\n\n\n\n\nData visualization with ggplot2\n\n\nData Carpentry\n\n\n\n\n\n\n\n\n\n\nST295 - Introductions to the Foundations of Data Science with R\n\n\nNorth Carolina State University\n\n\n\n\n\n\n\n\n\n\nST307 & ST308 - Introduction to Statistical Programming- SAS; Introduction to Statistical Programming-R\n\n\nNorth Carolina State University\n\n\n\n\n\n\n\n\n\n\nST511 - Statistical Methods For Researchers I\n\n\nNorth Carolina State University\n\n\n\n\n\n\n\n\n\n\nSTA 199 - Introduction to Data Science and Statistical Thinking\n\n\nDuke University\n\n\n\n\n\n\n\n\n\n\nStat 216 - Introduction to Statistics\n\n\nMontana State University\n\n\n\n\n\n\n\n\n\n\nStat 217 - Intermediate Statistics\n\n\nMontana State University\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "teaching.html#courses",
     "href": "teaching.html#courses",
     "title": "Teaching",
     "section": "",
-    "text": "Course\n\n\nInstitution\n\n\nWebsite\n\n\n\n\n\n\n\n\n\nData visualization with ggplot2\n\n\nData Carpentry\n\n\n\n\n\n\n\n\n\n\nSTA 199 - Introduction to Data Science and Statistical Thinking\n\n\nDuke University\n\n\n\n\n\n\n\n\n\n\nStat 216 - Introduction to Statistics\n\n\nMontana State University\n\n\n\n\n\n\n\n\n\n\nStat 217 - Intermediate Statistics\n\n\nMontana State University\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Course\n\n\nInstitution\n\n\nWebsite\n\n\n\n\n\n\n\n\n\nData visualization with ggplot2\n\n\nData Carpentry\n\n\n\n\n\n\n\n\n\n\nST295 - Introductions to the Foundations of Data Science with R\n\n\nNorth Carolina State University\n\n\n\n\n\n\n\n\n\n\nST307 & ST308 - Introduction to Statistical Programming- SAS; Introduction to Statistical Programming-R\n\n\nNorth Carolina State University\n\n\n\n\n\n\n\n\n\n\nST511 - Statistical Methods For Researchers I\n\n\nNorth Carolina State University\n\n\n\n\n\n\n\n\n\n\nSTA 199 - Introduction to Data Science and Statistical Thinking\n\n\nDuke University\n\n\n\n\n\n\n\n\n\n\nStat 216 - Introduction to Statistics\n\n\nMontana State University\n\n\n\n\n\n\n\n\n\n\nStat 217 - Intermediate Statistics\n\n\nMontana State University\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "teaching.html#philosophy",
@@ -63,6 +63,13 @@
     "text": "In preparation\n\nMeyer, E., & Çetinkaya-Rundel, M. Introductory Data Science: A Blueprint to Design Curriculum and Pedagogy. To be submitted to the Journal of Statistics and Data Science Education."
   },
   {
+    "objectID": "publications.html#reviewer",
+    "href": "publications.html#reviewer",
+    "title": "Publications",
+    "section": "Reviewer",
+    "text": "Reviewer\nI have served as a reviewer for:\n– Teaching Statistics (2024; 2025)\n– Journal of Data Science (2024)"
+  },
+  {
     "objectID": "prez/eCots-24/day1.html",
     "href": "prez/eCots-24/day1.html",
     "title": "Penguins: Day 1",
@@ -95,7 +102,7 @@
     "href": "index.html",
     "title": "Dr. Elijah Meyer",
     "section": "",
-    "text": "I am a postdoc in the Department of Statistical Science at Duke University, working with Dr. Mine Çetinkaya-Rundel on data science education, with responsibilities as a lead instructor and researcher. I have training and over nine years of experience in both developing and instructing in-person and online courses in statistics and data science that range from 15 to 300 students.\nMy current research focuses on how to better the teaching and learning experiences for those involved. Additionally, I’m interested in sports analytics and creating dynamic tools to support data driven decision making as well as in developing statistics and data science curricula for both introductory and more advanced courses.\n\n Teaching Assistant Professor, August 2024 - present\nNorth Carolina State University | Raleigh, NC\n\n Postdoc in Statistical Science, August 2022 - August 2024\nDuke University | Durham, NC\n\nPh.D. in Statistics with a focus in Education, August 2022\nMontana State University | Bozeman, MT\n\nMaster’s in Statistics, May 2018\nMontana State University | Bozeman, MT"
+    "text": "I am a Teaching Assistant Professor in the Department of Statistics at North Carolina State University, with responsibilities in teaching, TA training, curricula development, program development, and research. I have training and 10+ of experience in both developing and instructing in-person and online courses in statistics and data science that range from 15 to 300 students.\nMy current research focuses on how to better the teaching and learning experiences for those involved. Additionally, I’m interested in sports analytics and creating dynamic tools to support data driven decision making as well as in developing statistics and data science curricula for both introductory and more advanced courses.\n\n Teaching Assistant Professor, August 2024 - present\nNorth Carolina State University | Raleigh, NC\n\n Postdoc in Statistical Science, August 2022 - August 2024\nDuke University | Durham, NC\n\nPh.D. in Statistics with a focus in Education, August 2022\nMontana State University | Bozeman, MT\n\nMaster’s in Statistics, May 2018\nMontana State University | Bozeman, MT"
   },
   {
     "objectID": "courses/stat-216.html",
@@ -105,11 +112,32 @@
     "text": "11 sections, in-person + online since Spring 2013 - Spring 2022\n\nStat 216 is designed to engage you in the statistical investigation process from developing a research question and data collection methods to analyzing and communicating results. This course introduces basic descriptive and inferential statistics using both traditional (normal and t-distribution) and simulation approaches including confidence intervals and hypothesis testing on means (one-sample, two-sample, paired), proportions (one-sample, two-sample), regression and correlation. You will be exposed to numerous examples of real-world applications of statistics that are designed to help you develop a conceptual understanding of statistics."
   },
   {
+    "objectID": "courses/st307-8.html",
+    "href": "courses/st307-8.html",
+    "title": "ST307 & ST308 - Introduction to Statistical Programming- SAS; Introduction to Statistical Programming-R",
+    "section": "",
+    "text": "Course coordinator since Spring 2025\n\nCourse coordinator of large service introductory SAS and R courses that seat roughly 700 students. These courses are taught by teaching assistants (TA). These courses combine lecture from the TAs, and virtual teaching components (videos; walkthroughs; in-class assessments) prepared by me. Coordinating this course includes weekly meetings with all TAs to discuss pedagogy and course content."
+  },
+  {
+    "objectID": "courses/st-295.html",
+    "href": "courses/st-295.html",
+    "title": "ST295 - Introductions to the Foundations of Data Science with R",
+    "section": "",
+    "text": "Developed + taught 1 section, in-person during Spring 2025\n\nIn this course, we will discover patterns in data through the use of effective data visualization tools, exploratory data analysis, and modeling techniques. We will gain experience working with real-world messy data, and use data tidying and data wrangling techniques to make the data suitable for exploration. An emphasis will be placed on creating reproducible and shareable work. This course highlights the importance of and uses version control software for individual and collaborative work. The course will focus on the R statistical computing language. This course will be run through GitHub."
+  },
+  {
     "objectID": "courses/data-carpentry.html",
     "href": "courses/data-carpentry.html",
     "title": "Data visualization with ggplot2",
     "section": "",
     "text": "Spring 2020  Fall 2019\n\nData Carpentry’s aim is to teach researchers basic concepts, skills, and tools for working with data so that they can get more done in less time, and with less pain. This is an introduction to R designed for participants with no programming experience. These lessons can be taught in a day (~ 6 hours). They start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting. The last lesson demonstrates how to work with databases directly from R."
+  },
+  {
+    "objectID": "courses/st-511.html",
+    "href": "courses/st-511.html",
+    "title": "ST511 - Statistical Methods For Researchers I",
+    "section": "",
+    "text": "2 sections, in-person + during Fall 2024\n\nGraduate standing course that prepares students to build basic statistical thinking skills, and analyze data. This course provides a heavy emphasis on effective exploratory data visulaizations using R/Rstudio, and how to perform a variety of statistical concepts using R/RStudio in a reproducible format using Quarto. Concepts covered theoretical and simulation based inference for single mean, difference in means, single proportion, and difference in proportions. More advanced theoretical hypothesis testing using One-Way ANOVA with pair-wise comparisons, Two-Way ANOVA, and Chi-square testing are also covered. Exploratory regression techniques such as simple, multiple linear regression models, and logistic regression are covered."
   },
   {
     "objectID": "courses/sta-199.html",
@@ -137,7 +165,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Below is a list of projects I’m currently involved with. For further descriptions or potential collaboration inquires, please contact me at elijah.meyer@duke.edu. You can also find a list of my completed projects and work experience on my CV.\n\nData Science Assessment\n       with Dr. Mine Çetinkaya-Rundel, Dr. Andrew Zieffler, Dr. Mine Dogucu, Dr. Matthew Beckman, Dr. Maria Tackett, Dr. Chelsea Legacy\nExplore with Shiny: Creating a Statistics Inquiry-Based Learning Tool\n       with Alina Yin (Undergraduate student)\nCreating a Data Science Specialization in Coursera\n       with Dr. Mine Çetinkaya-Rundel\nIntroductory Data Science: A Blueprint to Navigate Curricular, Pedagogical, and Computational Challenges\n       with Dr. Mine Çetinkaya-Rundel\nMotivation Matters: Developing an Instrument to Measure Newer Instructors’ Situational Motivation to Use Active Learning in the Classroom when Teaching Statistics\n       with Dr. Jennifer Green\nData Driven Disc Golf: Dynamic Interactive Application to help Players Spatially Visualize a Disc Golf Course\n       with Dr. Christian Stratton"
+    "text": "Below is a list of projects I’m currently involved with. For further descriptions or potential collaboration inquires, please contact me at esmeyer2@ncsu.edu. You can also find a list of my completed projects and work experience on my CV.\n\nData Science Assessment\n       with Dr. Mine Çetinkaya-Rundel, Dr. Andrew Zieffler, Dr. Mine Dogucu, Dr. Matthew Beckman, Dr. Maria Tackett, Dr. Chelsea Legacy\nExplore with Shiny: Creating a Statistics Inquiry-Based Learning Tool\n       with Alina Yin (Undergraduate student)\nCreating a Data Science Specialization in Coursera\n       with Dr. Mine Çetinkaya-Rundel\nTriangle Sports Analytics Competition:\n       *with Dr. Alex Fisher, Dr. Mario Giacomazzo\nIntroductory Data Science: A Blueprint to Navigate Curricular, Pedagogical, and Computational Challenges\n       with Dr. Mine Çetinkaya-Rundel\nMotivation Matters: Developing an Instrument to Measure Newer Instructors’ Situational Motivation to Use Active Learning in the Classroom when Teaching Statistics\n       with Dr. Jennifer Green\nData Driven Disc Golf: Dynamic Interactive Application to help Players Spatially Visualize a Disc Golf Course\n       with Dr. Christian Stratton"
   },
   {
     "objectID": "talks.html",

@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-Below is a list of projects I'm currently involved with. For further descriptions or potential collaboration inquires, please contact me at [elijah.meyer\@duke.edu](mailto:elijah.meyer@duke.edu). You can also find a list of my completed projects and work experience on my [CV](https://elijahmeyer3.github.io/CV.pdf).
+Below is a list of projects I'm currently involved with. For further descriptions or potential collaboration inquires, please contact me at [esmeyer2\@ncsu.edu](mailto:esmeyer2@ncsu.edu). You can also find a list of my completed projects and work experience on my [CV](https://elijahmeyer3.github.io/CV.pdf).
 
 
 -   Data Science Assessment\
@@ -13,6 +13,9 @@ Below is a list of projects I'm currently involved with. For further description
 
 -   Creating a Data Science Specialization in Coursera\
            *with [Dr. Mine Çetinkaya-Rundel](https://mine-cr.com/)*
+
+-   Triangle Sports Analytics Competition:\
+           *with [Dr. Alex Fisher](https://stat.duke.edu/alexander-fisher), [Dr. Mario Giacomazzo](www.supermariogiacomazzo.com)
 
 -   Introductory Data Science: A Blueprint to Navigate Curricular, Pedagogical, and Computational Challenges\
            *with [Dr. Mine Çetinkaya-Rundel](https://mine-cr.com/)*

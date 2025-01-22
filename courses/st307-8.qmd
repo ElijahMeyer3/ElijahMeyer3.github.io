@@ -1,0 +1,11 @@
+---
+title: ST307 & ST308 - Introduction to Statistical Programming- SAS; Introduction to Statistical Programming-R
+subtitle: North Carolina State University
+image: images/nc-state.png
+image-alt: NC State logo
+editor: visual
+---
+
+[Course coordinator since Spring 2025](coming soon)
+
+> Course coordinator of large service introductory SAS and R courses that seat roughly 700 students. These courses are taught by teaching assistants (TA). These courses combine lecture from the TAs, and virtual teaching components (videos; walkthroughs; in-class assessments) prepared by me. Coordinating this course includes weekly meetings with all TAs to discuss pedagogy and course content. 
