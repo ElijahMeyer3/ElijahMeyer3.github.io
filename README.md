@@ -10,6 +10,7 @@ Created materials for and presented at big ideas meeting to motivate the importa
 
 Created + hosted first Triangle Sports Analytics competition \
 Reviewer for Teaching Statistics (2024; 2025); Journal of Data Science (2024)\
+Created (and creating) Data Science course on Coursera (2024 - )\
 
 # Publications 
 
